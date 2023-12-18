@@ -1,0 +1,1513 @@
+<http://purl.obolibrary.org/obo/BFO_0000040>[?X] :- <http://purl.obolibrary.org/obo/RO_0003000>[?X,?X1] .
+<http://purl.obolibrary.org/obo/RO_0002487>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002490>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0003302>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0001020>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002170>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002178>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002286>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002203>[?X,?Y] .
+<http://purl.obolibrary.org/obo/CARO_0000003>[?X] :- <http://purl.obolibrary.org/obo/RO_0002372>[?X,?X1] .
+<http://purl.obolibrary.org/obo/RO_0002234>[?X0,?X2] :- <http://purl.obolibrary.org/obo/RO_0002230>[?X0,?X1], <http://purl.obolibrary.org/obo/RO_0002234>[?X1,?X2] .
+<http://purl.obolibrary.org/obo/BFO_0000002>[?X] :- <http://purl.obolibrary.org/obo/RO_0002506>[?X,?X1] .
+<http://purl.obolibrary.org/obo/RO_0002487>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002496>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002328>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002353>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002258>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002256>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002440>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002443>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002514>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002522>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0004028>[?X0,?X2] :- <http://purl.obolibrary.org/obo/RO_0009501>[?X0,?X1], <http://purl.obolibrary.org/obo/RO_0002233>[?X1,?X2] .
+<http://purl.obolibrary.org/obo/BFO_0000051>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002248>[?X,?Y] .
+<http://purl.obolibrary.org/obo/CARO_0000003>[?X1] :- <http://purl.obolibrary.org/obo/RO_0002295>[?X,?X1] .
+<http://purl.obolibrary.org/obo/BFO_0000040>[?X] :- <http://purl.obolibrary.org/obo/RO_0011013>[?X,?X1] .
+<http://purl.obolibrary.org/obo/RO_0002244>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002242>[?X,?Y] .
+<http://purl.obolibrary.org/obo/BFO_0000040>[?X] :- <http://purl.obolibrary.org/obo/RO_0002595>[?X,?X1] .
+<http://purl.obolibrary.org/obo/BFO_0000040>[?X] :- <http://purl.obolibrary.org/obo/RO_0002448>[?X,?X1] .
+<http://purl.obolibrary.org/obo/RO_0002444>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002235>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002211>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002212>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002313>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002020>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002212>[?X0,?X2] :- <http://purl.obolibrary.org/obo/RO_0002230>[?X0,?X1], <http://purl.obolibrary.org/obo/RO_0002212>[?X1,?X2] .
+<http://purl.obolibrary.org/obo/RO_0002130>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002110>[?X,?Y] .
+<http://purl.obolibrary.org/obo/CARO_0001001>[?X] :- <http://purl.obolibrary.org/obo/RO_0002134>[?X,?X1] .
+<http://purl.obolibrary.org/obo/CL_0000000>[?X] :- <http://purl.obolibrary.org/obo/RO_0002009>[?X,?X1] .
+<http://purl.obolibrary.org/obo/RO_0002018>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002017>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002131>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002101>[?X,?Y] .
+<http://purl.obolibrary.org/obo/BFO_0000051>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002104>[?X,?Y] .
+<http://purl.obolibrary.org/obo/CARO_0000003>[?X1] :- <http://purl.obolibrary.org/obo/RO_0002179>[?X,?X1], <http://purl.obolibrary.org/obo/CARO_0000006>[?X] .
+<http://purl.obolibrary.org/obo/RO_0002233>[?X1,?X2] :- <http://purl.obolibrary.org/obo/RO_0002233>[?X,?X2], <http://purl.obolibrary.org/obo/RO_0002025>[?X,?X1] .
+<http://purl.obolibrary.org/obo/RO_0002574>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002459>[?X,?Y] .
+<http://purl.obolibrary.org/obo/CARO_0000003>[?X1] :- <http://purl.obolibrary.org/obo/RO_0002004>[?X,?X1] .
+<http://purl.obolibrary.org/obo/RO_0002329>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002326>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002497>[?X0,?X2] :- <http://purl.obolibrary.org/obo/BFO_0000050>[?X0,?X1], <http://purl.obolibrary.org/obo/RO_0002497>[?X1,?X2] .
+<http://purl.obolibrary.org/obo/RO_0002211>[?X0,?X2] :- <http://purl.obolibrary.org/obo/RO_0002578>[?X0,?X1], <http://purl.obolibrary.org/obo/RO_0002578>[?X1,?X2] .
+<http://purl.obolibrary.org/obo/RO_0002618>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002622>[?X,?Y] .
+<http://purl.obolibrary.org/obo/BFO_0000051>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002224>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002331>[?X0,?X2] :- <http://purl.obolibrary.org/obo/RO_0002331>[?X0,?X1], <http://purl.obolibrary.org/obo/BFO_0000050>[?X1,?X2] .
+<http://purl.obolibrary.org/obo/BFO_0000050>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002576>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002233>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002400>[?X,?Y] .
+<http://purl.obolibrary.org/obo/BFO_0000017>[?X] :- <http://purl.obolibrary.org/obo/RO_0004000>[?X,?X1] .
+<http://purl.obolibrary.org/obo/RO_0002524>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002518>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002162>[?X0,?X2] :- <http://purl.obolibrary.org/obo/RO_0002206>[?X0,?X1], <http://purl.obolibrary.org/obo/RO_0002162>[?X1,?X2] .
+<http://purl.obolibrary.org/obo/RO_0002090>[?X0,?X2] :- <http://purl.obolibrary.org/obo/RO_0002230>[?X0,?X1], <http://purl.obolibrary.org/obo/RO_0002224>[?X1,?X2] .
+<http://www.w3.org/2002/07/owl#Nothing>[<int$false>] :- <http://purl.obolibrary.org/obo/RO_0003301>[?X,?Y], <http://purl.obolibrary.org/obo/RO_0003301>[?Y,?X] .
+<http://purl.obolibrary.org/obo/RO_0002336>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002015>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002134>[?X0,?X2] :- <http://purl.obolibrary.org/obo/RO_0002134>[?X0,?X1], <http://purl.obolibrary.org/obo/BFO_0000050>[?X1,?X2] .
+<http://purl.obolibrary.org/obo/RO_0002314>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0000052>[?X,?Y] .
+<http://purl.obolibrary.org/obo/BFO_0000040>[?X] :- <http://purl.obolibrary.org/obo/RO_0009003>[?X,?X1] .
+<http://purl.obolibrary.org/obo/RO_0002418>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002427>[?Y,?X] .
+<http://purl.obolibrary.org/obo/RO_0002427>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002418>[?Y,?X] .
+<http://purl.obolibrary.org/obo/RO_0002162>[?X0,?X2] :- <http://purl.obolibrary.org/obo/RO_0002225>[?X0,?X1], <http://purl.obolibrary.org/obo/RO_0002162>[?X1,?X2] .
+<http://purl.obolibrary.org/obo/RO_0002441>[?X0,?X3] :- <http://purl.obolibrary.org/obo/RO_0002461>[?X0,?X1], <http://purl.obolibrary.org/obo/RO_0002466>[?X1,?X2], <http://purl.obolibrary.org/obo/RO_0002461>[?X3,?X2] .
+<http://purl.obolibrary.org/obo/RO_0002640>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002641>[?Y,?X] .
+<http://purl.obolibrary.org/obo/RO_0002641>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002640>[?Y,?X] .
+<http://purl.obolibrary.org/obo/RO_0002211>[?X,?Z] :- <http://purl.obolibrary.org/obo/RO_0002211>[?X,?Y], <http://purl.obolibrary.org/obo/RO_0002211>[?Y,?Z] .
+<http://purl.obolibrary.org/obo/RO_0002323>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002163>[?X,?Y] .
+<http://purl.obolibrary.org/obo/BFO_0000015>[?X1] :- <http://purl.obolibrary.org/obo/RO_0009501>[?X,?X1] .
+<http://purl.obolibrary.org/obo/RO_0002494>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002495>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0003302>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0003304>[?X,?Y] .
+<http://purl.obolibrary.org/obo/BFO_0000050>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002380>[?X,?Y] .
+<http://purl.obolibrary.org/obo/BFO_0000040>[?X1] :- <http://purl.obolibrary.org/obo/RO_0002332>[?X,?X1] .
+<http://purl.obolibrary.org/obo/RO_0002410>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002506>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002213>[?X,?Z] :- <http://purl.obolibrary.org/obo/RO_0002213>[?X,?Y], <http://purl.obolibrary.org/obo/RO_0002213>[?Y,?Z] .
+<http://purl.obolibrary.org/obo/RO_0002295>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002355>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002414>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002413>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0004000>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0004003>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002211>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002334>[?Y,?X] .
+<http://purl.obolibrary.org/obo/RO_0002334>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002211>[?Y,?X] .
+<http://purl.obolibrary.org/obo/RO_0002159>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002159>[?Y,?X] .
+<http://purl.obolibrary.org/obo/RO_0002467>[?X,?X] :- <http://purl.obolibrary.org/obo/GO_0085030>[?X] .
+<http://purl.obolibrary.org/obo/RO_0002158>[?X0,?X2] :- <http://purl.obolibrary.org/obo/RO_0002156>[?X0,?X1], <http://purl.obolibrary.org/obo/RO_0002157>[?X1,?X2] .
+<http://purl.obolibrary.org/obo/RO_0002321>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002303>[?X,?Y] .
+<http://purl.obolibrary.org/obo/BFO_0000040>[?X1] :- <http://purl.obolibrary.org/obo/RO_0011015>[?X,?X1] .
+<http://purl.obolibrary.org/obo/BFO_0000040>[?X1] :- <http://purl.obolibrary.org/obo/RO_0003002>[?X,?X1] .
+<http://purl.obolibrary.org/obo/RO_0002328>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002432>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002375>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002569>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002430>[?X0,?X2] :- <http://purl.obolibrary.org/obo/RO_0002327>[?X0,?X1], <http://purl.obolibrary.org/obo/RO_0002212>[?X1,?X2] .
+<http://purl.obolibrary.org/obo/RO_0002496>[?X0,?X2] :- <http://purl.obolibrary.org/obo/RO_0002496>[?X0,?X1], <http://purl.obolibrary.org/obo/BFO_0000050>[?X1,?X2] .
+<http://purl.obolibrary.org/obo/BFO_0000050>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002496>[?X,?Y], <http://purl.obolibrary.org/obo/RO_NonExist>[?X] .
+<http://purl.obolibrary.org/obo/BFO_0000050>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002131>[?X,?Y], <http://purl.obolibrary.org/obo/RO_NonExist>[?X] .
+<http://purl.obolibrary.org/obo/BFO_0000050>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002162>[?X,?Y], <http://purl.obolibrary.org/obo/RO_NonExist>[?X] .
+<http://purl.obolibrary.org/obo/RO_0040036>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002315>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002377>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002382>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002559>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002507>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0001025>[?X0,?X2] :- <http://purl.obolibrary.org/obo/RO_0001025>[?X0,?X1], <http://purl.obolibrary.org/obo/BFO_0000050>[?X1,?X2] .
+<http://purl.obolibrary.org/obo/RO_0002314>[?X0,?X2] :- <http://purl.obolibrary.org/obo/RO_0002314>[?X0,?X1], <http://purl.obolibrary.org/obo/BFO_0000050>[?X1,?X2] .
+<http://purl.obolibrary.org/obo/RO_0002233>[?X0,?X2] :- <http://purl.obolibrary.org/obo/RO_0002224>[?X0,?X1], <http://purl.obolibrary.org/obo/RO_0002233>[?X1,?X2] .
+<http://purl.obolibrary.org/obo/RO_0002213>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002336>[?Y,?X] .
+<http://purl.obolibrary.org/obo/RO_0002336>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002213>[?Y,?X] .
+<http://purl.obolibrary.org/obo/RO_0002496>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002583>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002177>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002371>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002448>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002449>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002328>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002567>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002233>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0004009>[?X,?Y] .
+<http://purl.obolibrary.org/obo/BFO_0000063>[?X0,?X2] :- <http://purl.obolibrary.org/obo/RO_0002092>[?X0,?X1], <http://purl.obolibrary.org/obo/BFO_0000063>[?X1,?X2] .
+<http://purl.obolibrary.org/obo/RO_0002459>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002460>[?Y,?X] .
+<http://purl.obolibrary.org/obo/RO_0002460>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002459>[?Y,?X] .
+<http://purl.obolibrary.org/obo/RO_0002158>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002158>[?Y,?X] .
+<http://purl.obolibrary.org/obo/RO_0002599>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002606>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002212>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002335>[?Y,?X] .
+<http://purl.obolibrary.org/obo/RO_0002335>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002212>[?Y,?X] .
+<http://www.w3.org/2002/07/owl#topObjectProperty>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002201>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002330>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002292>[?X,?Y] .
+<http://purl.obolibrary.org/obo/CARO_0001010>[?X1] :- <http://purl.obolibrary.org/obo/RO_0002574>[?X,?X1] .
+<http://purl.obolibrary.org/obo/RO_0002497>[?X0,?X3] :- <http://purl.obolibrary.org/obo/RO_0002593>[?X0,?X1], <http://purl.obolibrary.org/obo/BFO_0000063>[?X1,?X2], <http://purl.obolibrary.org/obo/RO_0002593>[?X3,?X2] .
+<http://purl.obolibrary.org/obo/RO_0002412>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002413>[?X,?Y] .
+<http://purl.obolibrary.org/obo/BFO_0000062>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002404>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002592>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002590>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002100>[?X0,?X2] :- <http://purl.obolibrary.org/obo/RO_0002100>[?X0,?X1], <http://purl.obolibrary.org/obo/BFO_0000050>[?X1,?X2] .
+<http://purl.obolibrary.org/obo/BFO_0000015>[?X1] :- <http://purl.obolibrary.org/obo/RO_0002214>[?X,?X1], <http://purl.obolibrary.org/obo/BFO_0000015>[?X] .
+<http://purl.obolibrary.org/obo/RO_0002598>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002600>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002564>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002481>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002440>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0008501>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0001018>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0001019>[?Y,?X] .
+<http://purl.obolibrary.org/obo/RO_0001019>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0001018>[?Y,?X] .
+<http://purl.obolibrary.org/obo/BFO_0000050>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002007>[?X,?Y] .
+<http://purl.obolibrary.org/obo/BFO_0000050>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002525>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002244>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002309>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002313>[?X0,?X2] :- <http://purl.obolibrary.org/obo/RO_0002313>[?X0,?X1], <http://purl.obolibrary.org/obo/BFO_0000051>[?X1,?X2] .
+<http://purl.obolibrary.org/obo/CL_0000000>[?X1] :- <http://purl.obolibrary.org/obo/RO_0002348>[?X,?X1] .
+<http://purl.obolibrary.org/obo/RO_0004007>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0004009>[?X,?Y] .
+<http://purl.obolibrary.org/obo/BFO_0000004>[?X1] :- <http://purl.obolibrary.org/obo/RO_0002479>[?X,?X1] .
+<http://purl.obolibrary.org/obo/BFO_0000040>[?X1] :- <http://purl.obolibrary.org/obo/RO_0002449>[?X,?X1] .
+<http://purl.obolibrary.org/obo/RO_0000057>[?X0,?X3] :- <http://purl.obolibrary.org/obo/BFO_0000051>[?X0,?X1], <http://purl.obolibrary.org/obo/BFO_0000055>[?X1,?X2], <http://purl.obolibrary.org/obo/RO_0000052>[?X2,?X3] .
+<http://purl.obolibrary.org/obo/RO_0002371>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002373>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002515>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002531>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002207>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002495>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002384>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002387>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002297>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002587>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002258>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002286>[?Y,?X] .
+<http://purl.obolibrary.org/obo/RO_0002286>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002258>[?Y,?X] .
+<http://purl.obolibrary.org/obo/RO_0002445>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002633>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002434>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002435>[?X,?Y] .
+<http://purl.obolibrary.org/obo/CARO_0000003>[?X1] :- <http://purl.obolibrary.org/obo/RO_0002100>[?X,?X1] .
+<http://purl.obolibrary.org/obo/RO_0002233>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002586>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002492>[?X0,?X2] :- <http://purl.obolibrary.org/obo/RO_0002593>[?X0,?X1], <http://purl.obolibrary.org/obo/BFO_0000050>[?X1,?X2] .
+<http://purl.obolibrary.org/obo/RO_0040035>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0004023>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0011022>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0011024>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002409>[?X0,?X2] :- <http://purl.obolibrary.org/obo/RO_0002408>[?X0,?X1], <http://purl.obolibrary.org/obo/RO_0002408>[?X1,?X2] .
+<http://purl.obolibrary.org/obo/RO_0002170>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002371>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0040035>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0004029>[?X,?Y] .
+<http://purl.obolibrary.org/obo/BFO_0000040>[?X1] :- <http://purl.obolibrary.org/obo/RO_0002434>[?X,?X1] .
+<http://purl.obolibrary.org/obo/RO_0002206>[?X0,?X2] :- <http://purl.obolibrary.org/obo/RO_0002206>[?X0,?X1], <http://purl.obolibrary.org/obo/BFO_0000050>[?X1,?X2] .
+<http://purl.obolibrary.org/obo/RO_0002264>[?X0,?X2] :- <http://purl.obolibrary.org/obo/RO_0002327>[?X0,?X1], <http://purl.obolibrary.org/obo/RO_0002418>[?X1,?X2] .
+<http://purl.obolibrary.org/obo/RO_0004019>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0004020>[?X,?Y] .
+<http://purl.obolibrary.org/obo/BFO_0000003>[?X1] :- <http://purl.obolibrary.org/obo/RO_0002501>[?X,?X1] .
+<http://purl.obolibrary.org/obo/BFO_0000015>[?X1] :- <http://purl.obolibrary.org/obo/RO_0002334>[?X,?X1] .
+<http://purl.obolibrary.org/obo/RO_0002444>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002624>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002529>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002530>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002432>[?X0,?X2] :- <http://purl.obolibrary.org/obo/RO_0002327>[?X0,?X1], <http://purl.obolibrary.org/obo/BFO_0000066>[?X1,?X2] .
+<http://purl.obolibrary.org/obo/RO_0002202>[?X,?Z] :- <http://purl.obolibrary.org/obo/RO_0002202>[?X,?Y], <http://purl.obolibrary.org/obo/RO_0002202>[?Y,?Z] .
+<http://purl.obolibrary.org/obo/RO_0008507>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0008508>[?Y,?X] .
+<http://purl.obolibrary.org/obo/RO_0008508>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0008507>[?Y,?X] .
+<http://purl.obolibrary.org/obo/BFO_0000002>[?X1] :- <http://purl.obolibrary.org/obo/RO_0002214>[?X,?X1], <http://purl.obolibrary.org/obo/BFO_0000002>[?X] .
+<http://purl.obolibrary.org/obo/RO_0002302>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002606>[?Y,?X] .
+<http://purl.obolibrary.org/obo/RO_0002606>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002302>[?Y,?X] .
+<http://purl.obolibrary.org/obo/RO_0002321>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002437>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002424>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002426>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002203>[?X,?Z] :- <http://purl.obolibrary.org/obo/RO_0002203>[?X,?Y], <http://purl.obolibrary.org/obo/RO_0002203>[?Y,?Z] .
+<http://purl.obolibrary.org/obo/RO_0002120>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002107>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002411>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002412>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002211>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002578>[?X,?Y] .
+<http://purl.obolibrary.org/obo/BFO_0000015>[?X1] :- <http://purl.obolibrary.org/obo/RO_0002215>[?X,?X1] .
+<http://purl.obolibrary.org/obo/BFO_0000015>[?X1] :- <http://purl.obolibrary.org/obo/RO_0002414>[?X,?X1] .
+<http://purl.obolibrary.org/obo/RO_0002101>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002132>[?Y,?X] .
+<http://purl.obolibrary.org/obo/RO_0002132>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002101>[?Y,?X] .
+<http://purl.obolibrary.org/obo/RO_0002371>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002371>[?Y,?X] .
+<http://www.w3.org/2002/07/owl#Nothing>[<int$false>] :- <http://purl.obolibrary.org/obo/RO_0002551>[?X,?Y], <http://purl.obolibrary.org/obo/RO_0002551>[?Y,?X] .
+<http://purl.obolibrary.org/obo/RO_0002515>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002530>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002427>[?X,?Z] :- <http://purl.obolibrary.org/obo/RO_0002427>[?X,?Y], <http://purl.obolibrary.org/obo/RO_0002427>[?Y,?Z] .
+<http://purl.obolibrary.org/obo/RO_0002566>[?X0,?X3] :- <http://purl.obolibrary.org/obo/RO_0002327>[?X0,?X1], <http://purl.obolibrary.org/obo/RO_0002411>[?X1,?X2], <http://purl.obolibrary.org/obo/RO_0002233>[?X2,?X3] .
+<http://purl.obolibrary.org/obo/RO_0004019>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0004021>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002551>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002576>[?Y,?X] .
+<http://purl.obolibrary.org/obo/RO_0002576>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002551>[?Y,?X] .
+<http://purl.obolibrary.org/obo/RO_0003000>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0003001>[?Y,?X] .
+<http://purl.obolibrary.org/obo/RO_0003001>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0003000>[?Y,?X] .
+<http://purl.obolibrary.org/obo/RO_0008506>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0008506>[?Y,?X] .
+<http://purl.obolibrary.org/obo/BFO_0000040>[?X] :- <http://purl.obolibrary.org/obo/RO_0009002>[?X,?X1] .
+<http://purl.obolibrary.org/obo/RO_0002527>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002527>[?Y,?X] .
+<http://purl.obolibrary.org/obo/RO_0002213>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002407>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002205>[?X0,?X2] :- <http://purl.obolibrary.org/obo/RO_0002511>[?X0,?X1], <http://purl.obolibrary.org/obo/RO_0002513>[?X1,?X2] .
+<http://purl.obolibrary.org/obo/RO_0002444>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002632>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002371>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002372>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002384>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002386>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002466>[?X,?X] :- <http://purl.obolibrary.org/obo/GO_0085031>[?X] .
+<http://purl.obolibrary.org/obo/RO_0002526>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002526>[?Y,?X] .
+<http://purl.obolibrary.org/obo/BFO_0000002>[?X1] :- <http://purl.obolibrary.org/obo/RO_HOM0000000>[?X,?X1], <http://purl.obolibrary.org/obo/BFO_0000002>[?X] .
+<http://purl.obolibrary.org/obo/RO_0004024>[?X0,?X2] :- <http://purl.obolibrary.org/obo/RO_0004025>[?X0,?X1], <http://purl.obolibrary.org/obo/RO_0002215>[?X1,?X2] .
+<http://purl.obolibrary.org/obo/CARO_0000006>[?X] :- <http://purl.obolibrary.org/obo/RO_0002104>[?X,?X1] .
+<http://purl.obolibrary.org/obo/RO_0002552>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002301>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002202>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002494>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002514>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002521>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002514>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002527>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0004019>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0004030>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002131>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002100>[?X,?Y] .
+<http://purl.obolibrary.org/obo/BFO_0000040>[?X1] :- <http://purl.obolibrary.org/obo/RO_0011014>[?X,?X1] .
+<http://purl.obolibrary.org/obo/RO_0002087>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002405>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002017>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002016>[?X,?Y] .
+<http://purl.obolibrary.org/obo/BFO_0000015>[?X1] :- <http://purl.obolibrary.org/obo/RO_0002010>[?X,?X1] .
+<http://purl.obolibrary.org/obo/RO_0002263>[?X0,?X2] :- <http://purl.obolibrary.org/obo/RO_0002327>[?X0,?X1], <http://purl.obolibrary.org/obo/RO_0002411>[?X1,?X2] .
+<http://purl.obolibrary.org/obo/OGMS_0000031>[?X] :- <http://purl.obolibrary.org/obo/RO_0004026>[?X,?X1] .
+<http://purl.obolibrary.org/obo/RO_0000057>[?X0,?X2] :- <http://purl.obolibrary.org/obo/BFO_0000051>[?X0,?X1], <http://purl.obolibrary.org/obo/RO_0000057>[?X1,?X2] .
+<http://purl.obolibrary.org/obo/BFO_0000002>[?X1] :- <http://purl.obolibrary.org/obo/RO_0002330>[?X,?X1] .
+<http://purl.obolibrary.org/obo/BFO_0000002>[?X] :- <http://purl.obolibrary.org/obo/RO_0002566>[?X,?X1] .
+<http://purl.obolibrary.org/obo/CARO_0001010>[?X] :- <http://purl.obolibrary.org/obo/RO_0008506>[?X,?X1] .
+<http://www.w3.org/2002/07/owl#topObjectProperty>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002200>[?X,?Y] .
+<http://purl.obolibrary.org/obo/CARO_0000003>[?X] :- <http://purl.obolibrary.org/obo/RO_0002567>[?X,?X1] .
+<http://purl.obolibrary.org/obo/RO_0002476>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002478>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002017>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002025>[?X,?Y] .
+<http://purl.obolibrary.org/obo/CARO_0000003>[?X] :- <http://purl.obolibrary.org/obo/RO_0002576>[?X,?X1] .
+<http://purl.obolibrary.org/obo/RO_0002328>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002352>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002131>[?X,?Y] :- <http://purl.obolibrary.org/obo/BFO_0000051>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002440>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002442>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002292>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002009>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002206>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002245>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0000057>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002333>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002103>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002109>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002526>[?X0,?X2] :- <http://purl.obolibrary.org/obo/RO_0002524>[?X0,?X1], <http://purl.obolibrary.org/obo/RO_0002525>[?X1,?X2] .
+<http://purl.obolibrary.org/obo/RO_0002454>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002553>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002438>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002470>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002375>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002252>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002481>[?X,?X] :- <http://purl.obolibrary.org/obo/GO_0016301>[?X] .
+<http://purl.obolibrary.org/obo/RO_0002479>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002232>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0004024>[?X0,?X2] :- <http://purl.obolibrary.org/obo/RO_0004024>[?X0,?X1], <http://purl.obolibrary.org/obo/BFO_0000050>[?X1,?X2] .
+<http://purl.obolibrary.org/obo/RO_0008501>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0008502>[?Y,?X] .
+<http://purl.obolibrary.org/obo/RO_0008502>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0008501>[?Y,?X] .
+<http://purl.obolibrary.org/obo/RO_0002598>[?X0,?X2] :- <http://purl.obolibrary.org/obo/RO_0002215>[?X0,?X1], <http://purl.obolibrary.org/obo/RO_0002213>[?X1,?X2] .
+<http://purl.obolibrary.org/obo/RO_0002344>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002342>[?X,?Y] .
+<http://purl.obolibrary.org/obo/BFO_0000015>[?X] :- <http://purl.obolibrary.org/obo/RO_0002231>[?X,?X1] .
+<http://purl.obolibrary.org/obo/RO_0002011>[?X0,?X2] :- <http://purl.obolibrary.org/obo/RO_0002211>[?X0,?X1], <http://purl.obolibrary.org/obo/RO_0002313>[?X1,?X2] .
+<http://purl.obolibrary.org/obo/RO_0002330>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002205>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002444>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002208>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0003305>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0003309>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002255>[?X0,?X2] :- <http://purl.obolibrary.org/obo/RO_0002203>[?X0,?X1], <http://purl.obolibrary.org/obo/BFO_0000050>[?X1,?X2] .
+<http://purl.obolibrary.org/obo/RO_0002263>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0004034>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0008503>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0008504>[?Y,?X] .
+<http://purl.obolibrary.org/obo/RO_0008504>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0008503>[?Y,?X] .
+<http://purl.obolibrary.org/obo/RO_0002103>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002112>[?X,?Y] .
+<http://www.w3.org/2002/07/owl#Nothing>[<int$false>] :- <http://purl.obolibrary.org/obo/RO_0002378>[?X,?Y], <http://purl.obolibrary.org/obo/RO_0002382>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002586>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002590>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002554>[?X0,?X2] :- <http://purl.obolibrary.org/obo/RO_0002445>[?X0,?X1], <http://purl.obolibrary.org/obo/RO_0002445>[?X1,?X2] .
+<http://www.w3.org/2002/07/owl#Nothing>[<int$false>] :- <http://purl.obolibrary.org/obo/RO_0002378>[?X,?Y], <http://purl.obolibrary.org/obo/RO_0002383>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002455>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002456>[?Y,?X] .
+<http://purl.obolibrary.org/obo/RO_0002456>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002455>[?Y,?X] .
+<http://purl.obolibrary.org/obo/RO_0004032>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0004034>[?X,?Y] .
+<http://purl.obolibrary.org/obo/CARO_0000006>[?X1] :- <http://purl.obolibrary.org/obo/RO_0002551>[?X,?X1] .
+<http://purl.obolibrary.org/obo/RO_0002113>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002102>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002328>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002431>[?X,?Y] .
+<http://purl.obolibrary.org/obo/BFO_0000020>[?X] :- <http://purl.obolibrary.org/obo/RO_0002573>[?X,?X1] .
+<http://purl.obolibrary.org/obo/RO_0002521>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002521>[?Y,?X] .
+<http://purl.obolibrary.org/obo/RO_0002344>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002339>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002328>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002584>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0003302>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0003303>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002616>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002558>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0000057>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002505>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002438>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002458>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0004010>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0004012>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002494>[?X,?Z] :- <http://purl.obolibrary.org/obo/RO_0002494>[?X,?Y], <http://purl.obolibrary.org/obo/RO_0002494>[?Y,?Z] .
+<http://purl.obolibrary.org/obo/BFO_0000002>[?X] :- <http://purl.obolibrary.org/obo/RO_0002205>[?X,?X1] .
+<http://purl.obolibrary.org/obo/RO_0002410>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002608>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002447>[?X0,?X3] :- <http://purl.obolibrary.org/obo/RO_0002215>[?X0,?X1], <http://purl.obolibrary.org/obo/RO_0002481>[?X1,?X2], <http://purl.obolibrary.org/obo/RO_0002400>[?X2,?X3] .
+<http://purl.obolibrary.org/obo/BFO_0000004>[?X] :- <http://purl.obolibrary.org/obo/RO_0002487>[?X,?X1] .
+<http://purl.obolibrary.org/obo/BFO_0000040>[?X1] :- <http://purl.obolibrary.org/obo/RO_0003001>[?X,?X1] .
+<http://purl.obolibrary.org/obo/RO_0002377>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002378>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002386>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002257>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002131>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002151>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0000057>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0004007>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002375>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002381>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0004000>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0004004>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002320>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_HOM0000003>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002212>[?X2,?X1] :- <http://purl.obolibrary.org/obo/RO_0002213>[?X2,?X], <http://purl.obolibrary.org/obo/RO_0002212>[?X,?X1] .
+<http://purl.obolibrary.org/obo/RO_0002212>[?X,?X2] :- <http://purl.obolibrary.org/obo/RO_0002212>[?X,?X1], <http://purl.obolibrary.org/obo/RO_0002213>[?X1,?X2] .
+<http://purl.obolibrary.org/obo/RO_0002088>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002085>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002574>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002555>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002156>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002157>[?Y,?X] .
+<http://purl.obolibrary.org/obo/RO_0002157>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002156>[?Y,?X] .
+<http://purl.obolibrary.org/obo/BFO_0000040>[?X] :- <http://purl.obolibrary.org/obo/RO_0011004>[?X,?X1] .
+<http://purl.obolibrary.org/obo/RO_0002438>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002457>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002103>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002120>[?Y,?X] .
+<http://purl.obolibrary.org/obo/RO_0002120>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002103>[?Y,?X] .
+<http://purl.obolibrary.org/obo/RO_0002213>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002629>[?X,?Y] .
+<http://purl.obolibrary.org/obo/BFO_0000004>[?X1] :- <http://purl.obolibrary.org/obo/RO_0010001>[?X,?X1] .
+<http://purl.obolibrary.org/obo/RO_0002292>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002293>[?X,?Y] .
+<http://purl.obolibrary.org/obo/BFO_0000051>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002524>[?X,?Y] .
+<http://purl.obolibrary.org/obo/BFO_0000003>[?X1] :- <http://purl.obolibrary.org/obo/RO_0002487>[?X,?X1] .
+<http://purl.obolibrary.org/obo/RO_0002497>[?X0,?X2] :- <http://purl.obolibrary.org/obo/RO_0002497>[?X0,?X1], <http://purl.obolibrary.org/obo/BFO_0000050>[?X1,?X2] .
+<http://purl.obolibrary.org/obo/RO_0002327>[?X0,?X2] :- <http://purl.obolibrary.org/obo/RO_0002327>[?X0,?X1], <http://purl.obolibrary.org/obo/RO_0002017>[?X1,?X2] .
+<http://purl.obolibrary.org/obo/RO_0002634>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002635>[?Y,?X] .
+<http://purl.obolibrary.org/obo/RO_0002635>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002634>[?Y,?X] .
+<http://purl.obolibrary.org/obo/RO_0010001>[?X0,?X2] :- <http://purl.obolibrary.org/obo/RO_0000052>[?X0,?X1], <http://purl.obolibrary.org/obo/RO_0000058>[?X1,?X2] .
+<http://purl.obolibrary.org/obo/RO_0002157>[?X,?Z] :- <http://purl.obolibrary.org/obo/RO_0002157>[?X,?Y], <http://purl.obolibrary.org/obo/RO_0002157>[?Y,?Z] .
+<http://purl.obolibrary.org/obo/RO_0002431>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002331>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0004033>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0004035>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002162>[?X0,?X2] :- <http://purl.obolibrary.org/obo/RO_0002202>[?X0,?X1], <http://purl.obolibrary.org/obo/RO_0002162>[?X1,?X2] .
+<http://purl.obolibrary.org/obo/CARO_0000003>[?X1] :- <http://purl.obolibrary.org/obo/RO_0004030>[?X,?X1] .
+<http://purl.obolibrary.org/obo/RO_0002156>[?X,?Z] :- <http://purl.obolibrary.org/obo/RO_0002156>[?X,?Y], <http://purl.obolibrary.org/obo/RO_0002156>[?Y,?Z] .
+<http://purl.obolibrary.org/obo/BFO_0000040>[?X1] :- <http://purl.obolibrary.org/obo/RO_0001023>[?X,?X1] .
+<http://purl.obolibrary.org/obo/RO_0002375>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002380>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002295>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002299>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002522>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002523>[?Y,?X] .
+<http://purl.obolibrary.org/obo/RO_0002523>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002522>[?Y,?X] .
+<http://purl.obolibrary.org/obo/BFO_0000002>[?X1] :- <http://purl.obolibrary.org/obo/RO_0002506>[?X,?X1] .
+<http://purl.obolibrary.org/obo/BFO_0000040>[?X1] :- <http://purl.obolibrary.org/obo/RO_0003000>[?X,?X1] .
+<http://www.w3.org/2002/07/owl#Nothing>[<int$false>] :- <http://purl.obolibrary.org/obo/RO_0002551>[?X,?X] .
+<http://purl.obolibrary.org/obo/RO_0002103>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002108>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002479>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002231>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0004000>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0004005>[?X,?Y] .
+<http://purl.obolibrary.org/obo/CARO_0000003>[?X1] :- <http://purl.obolibrary.org/obo/RO_0004027>[?X,?X1] .
+<http://purl.obolibrary.org/obo/BFO_0000040>[?X1] :- <http://purl.obolibrary.org/obo/RO_0002448>[?X,?X1] .
+<http://purl.obolibrary.org/obo/RO_0004010>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0004013>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002344>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002338>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002418>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002411>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002327>[?X2,?X1] :- <http://purl.obolibrary.org/obo/RO_0002327>[?X2,?X], <http://purl.obolibrary.org/obo/BFO_0000051>[?X,?X1], <http://purl.obolibrary.org/obo/GO_0003674>[?X] .
+<http://purl.obolibrary.org/obo/RO_0002571>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002572>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002636>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002637>[?Y,?X] .
+<http://purl.obolibrary.org/obo/RO_0002637>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002636>[?Y,?X] .
+<http://purl.obolibrary.org/obo/RO_0002131>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002132>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002424>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002425>[?X,?Y] .
+<http://purl.obolibrary.org/obo/BFO_0000040>[?X] :- <http://purl.obolibrary.org/obo/RO_0002473>[?X,?X1] .
+<http://purl.obolibrary.org/obo/BFO_0000040>[?X1] :- <http://purl.obolibrary.org/obo/RO_0009003>[?X,?X1] .
+<http://purl.obolibrary.org/obo/RO_0002162>[?X0,?X2] :- <http://purl.obolibrary.org/obo/RO_0002214>[?X0,?X1], <http://purl.obolibrary.org/obo/RO_0002162>[?X1,?X2] .
+<http://purl.obolibrary.org/obo/RO_0002375>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002377>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002488>[?X0,?X2] :- <http://purl.obolibrary.org/obo/RO_0002583>[?X0,?X1], <http://purl.obolibrary.org/obo/BFO_0000050>[?X1,?X2] .
+<http://purl.obolibrary.org/obo/RO_0002448>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002450>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0011010>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0011014>[?X,?Y] .
+<http://purl.obolibrary.org/obo/GO_0008150>[?X] :- <http://purl.obolibrary.org/obo/RO_0002295>[?X,?X1] .
+<http://purl.obolibrary.org/obo/CARO_0001010>[?X] :- <http://purl.obolibrary.org/obo/RO_0002574>[?X,?X1] .
+<http://purl.obolibrary.org/obo/RO_0004026>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0004027>[?X,?Y] .
+<http://purl.obolibrary.org/obo/BFO_0000015>[?X] :- <http://purl.obolibrary.org/obo/RO_0002310>[?X] .
+<http://purl.obolibrary.org/obo/BFO_0000015>[?X] :- <http://purl.obolibrary.org/obo/RO_0002211>[?X,?X1] .
+<http://purl.obolibrary.org/obo/RO_0002438>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002439>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002110>[?X0,?X2] :- <http://purl.obolibrary.org/obo/RO_0002110>[?X0,?X1], <http://purl.obolibrary.org/obo/BFO_0000050>[?X1,?X2] .
+<http://purl.obolibrary.org/obo/RO_0002204>[?X0,?X2] :- <http://purl.obolibrary.org/obo/RO_0002512>[?X0,?X1], <http://purl.obolibrary.org/obo/RO_0002510>[?X1,?X2] .
+<http://purl.obolibrary.org/obo/RO_0002436>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002448>[?X,?Y] .
+<http://purl.obolibrary.org/obo/BFO_0000015>[?X1] :- <http://purl.obolibrary.org/obo/RO_0004021>[?X,?X1] .
+<http://purl.obolibrary.org/obo/RO_0002131>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002509>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002384>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002385>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0000056>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002461>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0004031>[?X0,?X2] :- <http://purl.obolibrary.org/obo/RO_0002327>[?X0,?X1], <http://purl.obolibrary.org/obo/BFO_0000051>[?X1,?X2] .
+<http://purl.obolibrary.org/obo/RO_0002295>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002585>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002158>[?X,?Z] :- <http://purl.obolibrary.org/obo/RO_0002158>[?X,?Y], <http://purl.obolibrary.org/obo/RO_0002158>[?Y,?Z] .
+<http://purl.obolibrary.org/obo/RO_0002632>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002633>[?Y,?X] .
+<http://purl.obolibrary.org/obo/RO_0002633>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002632>[?Y,?X] .
+<http://purl.obolibrary.org/obo/RO_0002413>[?X0,?X2] :- <http://purl.obolibrary.org/obo/RO_0002402>[?X0,?X1], <http://purl.obolibrary.org/obo/RO_0002400>[?X1,?X2] .
+<http://purl.obolibrary.org/obo/RO_0004017>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0004019>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0040036>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002592>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002159>[?X,?Z] :- <http://purl.obolibrary.org/obo/RO_0002159>[?X,?Y], <http://purl.obolibrary.org/obo/RO_0002159>[?Y,?Z] .
+<http://purl.obolibrary.org/obo/BFO_0000040>[?X1] :- <http://purl.obolibrary.org/obo/RO_0002571>[?X,?X1] .
+<http://purl.obolibrary.org/obo/RO_0002445>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002637>[?X,?Y] .
+<http://purl.obolibrary.org/obo/CARO_0000000>[?X1] :- <http://purl.obolibrary.org/obo/RO_0002384>[?X,?X1] .
+<http://purl.obolibrary.org/obo/RO_0002566>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0011003>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002524>[?X,?Z] :- <http://purl.obolibrary.org/obo/RO_0002524>[?X,?Y], <http://purl.obolibrary.org/obo/RO_0002524>[?Y,?Z] .
+<http://purl.obolibrary.org/obo/RO_0002629>[?X1,?X2] :- <http://purl.obolibrary.org/obo/RO_0002629>[?X,?X2], <http://purl.obolibrary.org/obo/RO_0002025>[?X,?X1] .
+<http://purl.obolibrary.org/obo/RO_0004033>[?X0,?X2] :- <http://purl.obolibrary.org/obo/RO_0002327>[?X0,?X1], <http://purl.obolibrary.org/obo/RO_0004046>[?X1,?X2] .
+<http://purl.obolibrary.org/obo/RO_0000057>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002218>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002523>[?X,?Z] :- <http://purl.obolibrary.org/obo/RO_0002523>[?X,?Y], <http://purl.obolibrary.org/obo/RO_0002523>[?Y,?Z] .
+<http://purl.obolibrary.org/obo/RO_0002410>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0004017>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002213>[?X0,?X2] :- <http://purl.obolibrary.org/obo/RO_0002230>[?X0,?X1], <http://purl.obolibrary.org/obo/RO_0002213>[?X1,?X2] .
+<http://purl.obolibrary.org/obo/BFO_0000015>[?X] :- <http://purl.obolibrary.org/obo/RO_0002018>[?X,?X1] .
+<http://purl.obolibrary.org/obo/RO_0002492>[?X0,?X2] :- <http://purl.obolibrary.org/obo/RO_0002492>[?X0,?X1], <http://purl.obolibrary.org/obo/BFO_0000050>[?X1,?X2] .
+<http://purl.obolibrary.org/obo/RO_0002525>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002517>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002001>[?X,?Z] :- <http://purl.obolibrary.org/obo/RO_0002001>[?X,?Y], <http://purl.obolibrary.org/obo/RO_0002001>[?Y,?Z] .
+<http://purl.obolibrary.org/obo/RO_0002213>[?X0,?X2] :- <http://purl.obolibrary.org/obo/RO_0002212>[?X0,?X1], <http://purl.obolibrary.org/obo/RO_0002212>[?X1,?X2] .
+<http://purl.obolibrary.org/obo/RO_0002524>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002520>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002502>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002314>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002525>[?X,?Z] :- <http://purl.obolibrary.org/obo/RO_0002525>[?X,?Y], <http://purl.obolibrary.org/obo/RO_0002525>[?Y,?Z] .
+<http://purl.obolibrary.org/obo/RO_0002496>[?X0,?X3] :- <http://purl.obolibrary.org/obo/RO_0002583>[?X0,?X1], <http://purl.obolibrary.org/obo/BFO_0000062>[?X1,?X2], <http://purl.obolibrary.org/obo/RO_0002583>[?X3,?X2] .
+<http://purl.obolibrary.org/obo/RO_0002131>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002379>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002323>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002177>[?X,?Y] .
+<http://purl.obolibrary.org/obo/CARO_0000000>[?X] :- <http://purl.obolibrary.org/obo/RO_0002226>[?X,?X1] .
+<http://purl.obolibrary.org/obo/RO_0004046>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002305>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002331>[?X2,?X] :- <http://purl.obolibrary.org/obo/RO_0002327>[?X2,?X1], <http://purl.obolibrary.org/obo/BFO_0000050>[?X1,?X], <http://purl.obolibrary.org/obo/GO_0008150>[?X] .
+<http://purl.obolibrary.org/obo/RO_0002428>[?X0,?X2] :- <http://purl.obolibrary.org/obo/RO_0002331>[?X0,?X1], <http://purl.obolibrary.org/obo/RO_0002211>[?X1,?X2] .
+<http://purl.obolibrary.org/obo/RO_0002522>[?X,?Z] :- <http://purl.obolibrary.org/obo/RO_0002522>[?X,?Y], <http://purl.obolibrary.org/obo/RO_0002522>[?Y,?Z] .
+<http://purl.obolibrary.org/obo/BFO_0000040>[?X] :- <http://purl.obolibrary.org/obo/RO_0011015>[?X,?X1] .
+<http://purl.obolibrary.org/obo/OGMS_0000031>[?X] :- <http://purl.obolibrary.org/obo/RO_0004027>[?X,?X1] .
+<http://purl.obolibrary.org/obo/RO_0002529>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002529>[?Y,?X] .
+<http://purl.obolibrary.org/obo/RO_0002529>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002529>[?Y,?X] .
+<http://purl.obolibrary.org/obo/RO_0002330>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002204>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002524>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002525>[?Y,?X] .
+<http://purl.obolibrary.org/obo/RO_0002525>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002524>[?Y,?X] .
+<http://purl.obolibrary.org/obo/RO_0002638>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002639>[?Y,?X] .
+<http://purl.obolibrary.org/obo/RO_0002639>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002638>[?Y,?X] .
+<http://purl.obolibrary.org/obo/RO_0040036>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002343>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002320>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002159>[?X,?Y] .
+<http://purl.obolibrary.org/obo/CARO_0000003>[?X1] :- <http://purl.obolibrary.org/obo/RO_0002315>[?X,?X1] .
+<http://purl.obolibrary.org/obo/RO_0001018>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002004>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002022>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002578>[?Y,?X] .
+<http://purl.obolibrary.org/obo/RO_0002578>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002022>[?Y,?X] .
+<http://purl.obolibrary.org/obo/RO_0002162>[?X0,?X2] :- <http://purl.obolibrary.org/obo/RO_0002295>[?X0,?X1], <http://purl.obolibrary.org/obo/RO_0002162>[?X1,?X2] .
+<http://purl.obolibrary.org/obo/BFO_0000040>[?X] :- <http://purl.obolibrary.org/obo/RO_0002437>[?X,?X1] .
+<http://purl.obolibrary.org/obo/RO_0002114>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002115>[?Y,?X] .
+<http://purl.obolibrary.org/obo/RO_0002115>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002114>[?Y,?X] .
+<http://purl.obolibrary.org/obo/RO_0002500>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002596>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002465>[?X,?X] :- <http://purl.obolibrary.org/obo/GO_0044403>[?X] .
+<http://purl.obolibrary.org/obo/RO_0011009>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0011015>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002442>[?X0,?X3] :- <http://purl.obolibrary.org/obo/RO_0002461>[?X0,?X1], <http://purl.obolibrary.org/obo/RO_0002467>[?X1,?X2], <http://purl.obolibrary.org/obo/RO_0002461>[?X3,?X2] .
+<http://purl.obolibrary.org/obo/BFO_0000015>[?X] :- <http://purl.obolibrary.org/obo/RO_0002337>[?X,?X1] .
+<http://purl.obolibrary.org/obo/RO_0002320>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002162>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002323>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002000>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002264>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002263>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002528>[?X,?Z] :- <http://purl.obolibrary.org/obo/RO_0002528>[?X,?Y], <http://purl.obolibrary.org/obo/RO_0002528>[?Y,?Z] .
+<http://purl.obolibrary.org/obo/RO_0002553>[?X0,?X2] :- <http://purl.obolibrary.org/obo/RO_0002444>[?X0,?X1], <http://purl.obolibrary.org/obo/RO_0002444>[?X1,?X2] .
+<http://purl.obolibrary.org/obo/RO_0002496>[?X0,?X2] :- <http://purl.obolibrary.org/obo/BFO_0000050>[?X0,?X1], <http://purl.obolibrary.org/obo/RO_0002496>[?X1,?X2] .
+<http://purl.obolibrary.org/obo/UPHENO_0001001>[?X1] :- <http://purl.obolibrary.org/obo/RO_0002200>[?X,?X1] .
+<http://purl.obolibrary.org/obo/RO_0002563>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002564>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002022>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002024>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002559>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002566>[?Y,?X] .
+<http://purl.obolibrary.org/obo/RO_0002566>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002559>[?Y,?X] .
+<http://purl.obolibrary.org/obo/RO_0002529>[?X,?Z] :- <http://purl.obolibrary.org/obo/RO_0002529>[?X,?Y], <http://purl.obolibrary.org/obo/RO_0002529>[?Y,?Z] .
+<http://purl.obolibrary.org/obo/RO_0002485>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002486>[?Y,?X] .
+<http://purl.obolibrary.org/obo/RO_0002486>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002485>[?Y,?X] .
+<http://purl.obolibrary.org/obo/RO_0002263>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0004035>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002323>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002325>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002200>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002452>[?X,?Y] .
+<http://purl.obolibrary.org/obo/BFO_0000004>[?X1] :- <http://purl.obolibrary.org/obo/RO_0002231>[?X,?X1] .
+<http://purl.obolibrary.org/obo/RO_0002335>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002014>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002429>[?X0,?X2] :- <http://purl.obolibrary.org/obo/RO_0002327>[?X0,?X1], <http://purl.obolibrary.org/obo/RO_0002213>[?X1,?X2] .
+<http://purl.obolibrary.org/obo/RO_0002337>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002341>[?X,?Y] .
+<http://www.w3.org/2002/07/owl#sameAs>[?Y1,?Y2] :- <http://purl.obolibrary.org/obo/RO_0002025>[?X,?Y1], <http://purl.obolibrary.org/obo/RO_0002025>[?X,?Y2] .
+<http://purl.obolibrary.org/obo/RO_0002309>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002241>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002170>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002486>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002233>[?X,?X2] :- <http://purl.obolibrary.org/obo/RO_0002578>[?X,?X1], <http://purl.obolibrary.org/obo/RO_0002327>[?X2,?X1], <http://purl.obolibrary.org/obo/GO_0003674>[?X1], <http://purl.obolibrary.org/obo/GO_0003674>[?X] .
+<http://purl.obolibrary.org/obo/RO_0002578>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002629>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002566>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0011002>[?X,?Y] .
+<http://purl.obolibrary.org/obo/BFO_0000051>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002473>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002328>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0004031>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002233>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002352>[?Y,?X] .
+<http://purl.obolibrary.org/obo/RO_0002352>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002233>[?Y,?X] .
+<http://purl.obolibrary.org/obo/BFO_0000050>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002507>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0004047>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002304>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002630>[?X2,?X] :- <http://purl.obolibrary.org/obo/RO_0002352>[?X3,?X1], <http://purl.obolibrary.org/obo/RO_0002333>[?X2,?X3], <http://purl.obolibrary.org/obo/RO_0002014>[?X,?X1] .
+<http://purl.obolibrary.org/obo/RO_0002320>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002158>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002629>[?X2,?X] :- <http://purl.obolibrary.org/obo/RO_0002352>[?X3,?X1], <http://purl.obolibrary.org/obo/RO_0002333>[?X2,?X3], <http://purl.obolibrary.org/obo/RO_0002015>[?X,?X1] .
+<http://purl.obolibrary.org/obo/RO_0002090>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002412>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002334>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002013>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002215>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002327>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002497>[?X0,?X2] :- <http://purl.obolibrary.org/obo/RO_0002286>[?X0,?X1], <http://purl.obolibrary.org/obo/RO_0002497>[?X1,?X2] .
+<http://purl.obolibrary.org/obo/BFO_0000004>[?X] :- <http://purl.obolibrary.org/obo/RO_0002204>[?X,?X1] .
+<http://purl.obolibrary.org/obo/RO_0000301>[?X,?Z] :- <http://purl.obolibrary.org/obo/RO_0000301>[?X,?Y], <http://purl.obolibrary.org/obo/RO_0000301>[?Y,?Z] .
+<http://purl.obolibrary.org/obo/BFO_0000004>[?X1] :- <http://purl.obolibrary.org/obo/RO_0001018>[?X,?X1] .
+<http://purl.obolibrary.org/obo/RO_0002556>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002557>[?Y,?X] .
+<http://purl.obolibrary.org/obo/RO_0002557>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002556>[?Y,?X] .
+<http://purl.obolibrary.org/obo/RO_0000302>[?X,?Z] :- <http://purl.obolibrary.org/obo/RO_0000302>[?X,?Y], <http://purl.obolibrary.org/obo/RO_0000302>[?Y,?Z] .
+<http://purl.obolibrary.org/obo/RO_0002177>[?X0,?X2] :- <http://purl.obolibrary.org/obo/RO_0002371>[?X0,?X1], <http://purl.obolibrary.org/obo/BFO_0000050>[?X1,?X2] .
+<http://purl.obolibrary.org/obo/BFO_0000004>[?X] :- <http://purl.obolibrary.org/obo/RO_0002176>[?X,?X1] .
+<http://purl.obolibrary.org/obo/RO_0002492>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002493>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002345>[?X0,?X2] :- <http://purl.obolibrary.org/obo/RO_0002345>[?X0,?X1], <http://purl.obolibrary.org/obo/BFO_0000051>[?X1,?X2] .
+<http://purl.obolibrary.org/obo/RO_0002106>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002112>[?Y,?X] .
+<http://purl.obolibrary.org/obo/RO_0002112>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002106>[?Y,?X] .
+<http://purl.obolibrary.org/obo/RO_0002022>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002023>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002234>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002353>[?Y,?X] .
+<http://purl.obolibrary.org/obo/RO_0002353>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002234>[?Y,?X] .
+<http://purl.obolibrary.org/obo/RO_0002334>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002022>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002162>[?X0,?X2] :- <http://purl.obolibrary.org/obo/RO_0002215>[?X0,?X1], <http://purl.obolibrary.org/obo/RO_0002162>[?X1,?X2] .
+<http://purl.obolibrary.org/obo/RO_0040036>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002296>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002256>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002257>[?Y,?X] .
+<http://purl.obolibrary.org/obo/RO_0002257>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002256>[?Y,?X] .
+<http://xmlns.com/foaf/0.1/image>[?X1] :- <http://purl.obolibrary.org/obo/RO_0002026>[?X,?X1] .
+<http://purl.obolibrary.org/obo/RO_0002506>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002559>[?X,?Y] .
+<http://purl.obolibrary.org/obo/BFO_0000015>[?X] :- <http://purl.obolibrary.org/obo/RO_0002332>[?X,?X1] .
+<http://purl.obolibrary.org/obo/RO_0002234>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002297>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002567>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002373>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002453>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002557>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002021>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002342>[?X,?Y] .
+<http://purl.obolibrary.org/obo/CL_0000540>[?X] :- <http://purl.obolibrary.org/obo/RO_0002121>[?X,?X1] .
+<http://purl.obolibrary.org/obo/RO_0002411>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002305>[?X,?Y] .
+<http://purl.obolibrary.org/obo/CARO_0000000>[?X1] :- <http://purl.obolibrary.org/obo/RO_0002254>[?X,?X1] .
+<http://purl.obolibrary.org/obo/BFO_0000040>[?X] :- <http://purl.obolibrary.org/obo/RO_0002450>[?X,?X1] .
+<http://purl.obolibrary.org/obo/RO_0002330>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002513>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002597>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002599>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002635>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002639>[?X,?Y] .
+<http://purl.obolibrary.org/obo/BFO_0000040>[?X] :- <http://purl.obolibrary.org/obo/RO_0011014>[?X,?X1] .
+<http://purl.obolibrary.org/obo/RO_0002443>[?X0,?X3] :- <http://purl.obolibrary.org/obo/RO_0002461>[?X0,?X1], <http://purl.obolibrary.org/obo/RO_0002468>[?X1,?X2], <http://purl.obolibrary.org/obo/RO_0002461>[?X3,?X2] .
+<http://purl.obolibrary.org/obo/RO_0004010>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0004014>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002553>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002554>[?Y,?X] .
+<http://purl.obolibrary.org/obo/RO_0002554>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002553>[?Y,?X] .
+<http://purl.obolibrary.org/obo/RO_0002170>[?X0,?X2] :- <http://purl.obolibrary.org/obo/RO_0002176>[?X1,?X0], <http://purl.obolibrary.org/obo/RO_0002176>[?X1,?X2] .
+<http://purl.obolibrary.org/obo/RO_0002630>[?X1,?X2] :- <http://purl.obolibrary.org/obo/RO_0002630>[?X,?X2], <http://purl.obolibrary.org/obo/RO_0002025>[?X,?X1] .
+<http://purl.obolibrary.org/obo/RO_0004023>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0004019>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0000056>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002331>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002102>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002110>[?Y,?X] .
+<http://purl.obolibrary.org/obo/RO_0002110>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002102>[?Y,?X] .
+<http://purl.obolibrary.org/obo/RO_0002400>[?X0,?X2] :- <http://purl.obolibrary.org/obo/RO_0002224>[?X0,?X1], <http://purl.obolibrary.org/obo/RO_0002400>[?X1,?X2] .
+<http://purl.obolibrary.org/obo/RO_0002219>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002221>[?Y,?X] .
+<http://purl.obolibrary.org/obo/RO_0002221>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002219>[?Y,?X] .
+<http://purl.obolibrary.org/obo/RO_0002295>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002298>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002131>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002526>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0004019>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0004022>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002506>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002509>[?X,?Y] .
+<http://purl.obolibrary.org/obo/BFO_0000002>[?X1] :- <http://purl.obolibrary.org/obo/RO_0002566>[?X,?X1] .
+<http://purl.obolibrary.org/obo/RO_0002517>[?X,?Z] :- <http://purl.obolibrary.org/obo/RO_0002517>[?X,?Y], <http://purl.obolibrary.org/obo/RO_0002517>[?Y,?Z] .
+<http://purl.obolibrary.org/obo/BFO_0000040>[?X] :- <http://purl.obolibrary.org/obo/RO_0002570>[?X,?X1] .
+<http://purl.obolibrary.org/obo/RO_0001018>[?X0,?X2] :- <http://purl.obolibrary.org/obo/RO_0001025>[?X0,?X1], <http://purl.obolibrary.org/obo/BFO_0000050>[?X1,?X2] .
+<http://purl.obolibrary.org/obo/RO_0002519>[?X,?Z] :- <http://purl.obolibrary.org/obo/RO_0002519>[?X,?Y], <http://purl.obolibrary.org/obo/RO_0002519>[?Y,?Z] .
+<http://purl.obolibrary.org/obo/RO_0002340>[?X0,?X2] :- <http://purl.obolibrary.org/obo/RO_0002340>[?X0,?X1], <http://purl.obolibrary.org/obo/BFO_0000051>[?X1,?X2] .
+<http://purl.obolibrary.org/obo/CARO_0001010>[?X1] :- <http://purl.obolibrary.org/obo/RO_0002162>[?X,?X1] .
+<http://purl.obolibrary.org/obo/RO_0002324>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002384>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0011022>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0011023>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002518>[?X,?Z] :- <http://purl.obolibrary.org/obo/RO_0002518>[?X,?Y], <http://purl.obolibrary.org/obo/RO_0002518>[?Y,?Z] .
+<http://purl.obolibrary.org/obo/RO_0002442>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002456>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002440>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002441>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002120>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002106>[?X,?Y] .
+<http://purl.obolibrary.org/obo/BFO_0000004>[?X1] :- <http://purl.obolibrary.org/obo/RO_0002232>[?X,?X1] .
+<http://purl.obolibrary.org/obo/RO_0040036>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002565>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002502>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002503>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002552>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002300>[?X,?Y] .
+<http://purl.obolibrary.org/obo/BFO_0000002>[?X] :- <http://purl.obolibrary.org/obo/RO_0002008>[?X,?X1] .
+<http://purl.obolibrary.org/obo/RO_0002323>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002375>[?X,?Y] .
+<http://purl.obolibrary.org/obo/BFO_0000050>[?X2,?X1] :- <http://purl.obolibrary.org/obo/RO_0002327>[?X2,?X], <http://purl.obolibrary.org/obo/BFO_0000066>[?X,?X1] .
+<http://purl.obolibrary.org/obo/RO_0002514>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002526>[?X,?Y] .
+<http://purl.obolibrary.org/obo/BFO_0000040>[?X] :- <http://purl.obolibrary.org/obo/RO_0002248>[?X,?X1] .
+<http://purl.obolibrary.org/obo/RO_0002410>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0003311>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002516>[?X,?Z] :- <http://purl.obolibrary.org/obo/RO_0002516>[?X,?Y], <http://purl.obolibrary.org/obo/RO_0002516>[?Y,?Z] .
+<http://purl.obolibrary.org/obo/RO_0002380>[?X0,?X2] :- <http://purl.obolibrary.org/obo/RO_0002377>[?X0,?X1], <http://purl.obolibrary.org/obo/RO_0002381>[?X1,?X2] .
+<http://purl.obolibrary.org/obo/CL_0000000>[?X1] :- <http://purl.obolibrary.org/obo/RO_0002356>[?X,?X1] .
+<http://purl.obolibrary.org/obo/RO_0002439>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002458>[?Y,?X] .
+<http://purl.obolibrary.org/obo/RO_0002458>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002439>[?Y,?X] .
+<http://purl.obolibrary.org/obo/RO_0002295>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002552>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002323>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002170>[?X,?Y] .
+<http://purl.obolibrary.org/obo/BFO_0000051>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002180>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002448>[?X0,?X3] :- <http://purl.obolibrary.org/obo/RO_0002327>[?X0,?X1], <http://purl.obolibrary.org/obo/RO_0002211>[?X1,?X2], <http://purl.obolibrary.org/obo/RO_0002333>[?X2,?X3] .
+<http://purl.obolibrary.org/obo/BFO_0000040>[?X1] :- <http://purl.obolibrary.org/obo/RO_0002509>[?X,?X1] .
+<http://purl.obolibrary.org/obo/RO_0002630>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002408>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002410>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0003302>[?X,?Y] .
+<http://purl.obolibrary.org/obo/OGMS_0000031>[?X] :- <http://purl.obolibrary.org/obo/RO_0004022>[?X,?X1] .
+<http://purl.obolibrary.org/obo/RO_0002444>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002445>[?Y,?X] .
+<http://purl.obolibrary.org/obo/RO_0002445>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002444>[?Y,?X] .
+<http://purl.obolibrary.org/obo/RO_0002323>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002176>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002244>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002240>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002410>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0004018>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002476>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002477>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0004032>[?X0,?X2] :- <http://purl.obolibrary.org/obo/RO_0002327>[?X0,?X1], <http://purl.obolibrary.org/obo/RO_0004047>[?X1,?X2] .
+<http://purl.obolibrary.org/obo/RO_0002013>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002015>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002526>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002525>[?X,?Y] .
+<http://purl.obolibrary.org/obo/BFO_0000040>[?X] :- <http://purl.obolibrary.org/obo/RO_0009001>[?X,?X1] .
+<http://purl.obolibrary.org/obo/BFO_0000040>[?X1] :- <http://purl.obolibrary.org/obo/RO_0011007>[?X,?X1] .
+<http://purl.obolibrary.org/obo/RO_0000300>[?X,?Z] :- <http://purl.obolibrary.org/obo/RO_0000300>[?X,?Y], <http://purl.obolibrary.org/obo/RO_0000300>[?Y,?Z] .
+<http://purl.obolibrary.org/obo/RO_0002616>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002472>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002131>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002433>[?X,?Y] .
+<http://purl.obolibrary.org/obo/BFO_0000003>[?X1] :- <http://purl.obolibrary.org/obo/RO_HOM0000000>[?X,?X1], <http://purl.obolibrary.org/obo/BFO_0000003>[?X] .
+<http://purl.obolibrary.org/obo/BFO_0000051>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002551>[?X,?Y] .
+<http://purl.obolibrary.org/obo/BFO_0000040>[?X1] :- <http://purl.obolibrary.org/obo/RO_0011010>[?X,?X1] .
+<http://purl.obolibrary.org/obo/RO_0002405>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002412>[?Y,?X] .
+<http://purl.obolibrary.org/obo/RO_0002412>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002405>[?Y,?X] .
+<http://purl.obolibrary.org/obo/RO_0002291>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002293>[?Y,?X] .
+<http://purl.obolibrary.org/obo/RO_0002293>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002291>[?Y,?X] .
+<http://purl.obolibrary.org/obo/RO_0002574>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002460>[?X,?Y] .
+<http://purl.obolibrary.org/obo/BFO_0000050>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002229>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002328>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002333>[?X,?Y] .
+<http://purl.obolibrary.org/obo/BFO_0000020>[?X1] :- <http://purl.obolibrary.org/obo/RO_0002573>[?X,?X1] .
+<http://purl.obolibrary.org/obo/BFO_0000020>[?X1] :- <http://purl.obolibrary.org/obo/RO_0002426>[?X,?X1] .
+<http://purl.obolibrary.org/obo/RO_0002524>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002516>[?X,?Y] .
+<http://purl.obolibrary.org/obo/BFO_0000050>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002223>[?X,?Y] .
+<http://purl.obolibrary.org/obo/BFO_0000004>[?X1] :- <http://purl.obolibrary.org/obo/RO_0002205>[?X,?X1] .
+<http://purl.obolibrary.org/obo/RO_0002577>[?X] :- <http://purl.obolibrary.org/obo/RO_0002509>[?X,?X1] .
+<http://purl.obolibrary.org/obo/RO_0002444>[?X0,?X3] :- <http://purl.obolibrary.org/obo/RO_0002462>[?X0,?X1], <http://purl.obolibrary.org/obo/RO_0002468>[?X1,?X2], <http://purl.obolibrary.org/obo/RO_0002463>[?X3,?X2] .
+<http://purl.obolibrary.org/obo/RO_0011004>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0011016>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002404>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002411>[?Y,?X] .
+<http://purl.obolibrary.org/obo/RO_0002411>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002404>[?Y,?X] .
+<http://purl.obolibrary.org/obo/RO_0002258>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002254>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002461>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002463>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002523>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002525>[?X,?Y] .
+<http://purl.obolibrary.org/obo/OGMS_0000031>[?X] :- <http://purl.obolibrary.org/obo/RO_0004019>[?X,?X1] .
+<http://purl.obolibrary.org/obo/RO_0002380>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002569>[?Y,?X] .
+<http://purl.obolibrary.org/obo/RO_0002569>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002380>[?Y,?X] .
+<http://purl.obolibrary.org/obo/RO_0000300>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0000301>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002131>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002432>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0000301>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002103>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0011003>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0011022>[?X,?Y] .
+<http://purl.obolibrary.org/obo/BFO_0000040>[?X] :- <http://purl.obolibrary.org/obo/RO_0011010>[?X,?X1] .
+<http://purl.obolibrary.org/obo/RO_0003302>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0001023>[?X,?Y] .
+<http://purl.obolibrary.org/obo/BFO_0000040>[?X] :- <http://purl.obolibrary.org/obo/RO_0003003>[?X,?X1] .
+<http://purl.obolibrary.org/obo/RO_0002465>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002468>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002211>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002025>[?X,?Y] .
+<http://www.w3.org/2002/07/owl#topObjectProperty>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002134>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002327>[?X0,?X2] :- <http://purl.obolibrary.org/obo/RO_0002327>[?X0,?X1], <http://purl.obolibrary.org/obo/BFO_0000051>[?X1,?X2] .
+<http://purl.obolibrary.org/obo/RO_0002566>[?X0,?X3] :- <http://purl.obolibrary.org/obo/RO_0002327>[?X0,?X1], <http://purl.obolibrary.org/obo/RO_0002411>[?X1,?X2], <http://purl.obolibrary.org/obo/RO_0002333>[?X2,?X3] .
+<http://purl.obolibrary.org/obo/RO_0002480>[?X0,?X3] :- <http://purl.obolibrary.org/obo/RO_0002215>[?X0,?X1], <http://purl.obolibrary.org/obo/RO_0002482>[?X1,?X2], <http://purl.obolibrary.org/obo/RO_0002400>[?X2,?X3] .
+<http://www.w3.org/2002/07/owl#sameAs>[?Y1,?Y2] :- <http://purl.obolibrary.org/obo/RO_0002201>[?X,?Y1], <http://purl.obolibrary.org/obo/RO_0002201>[?X,?Y2] .
+<http://purl.obolibrary.org/obo/CARO_0000000>[?X] :- <http://purl.obolibrary.org/obo/RO_0002384>[?X,?X1] .
+<http://purl.obolibrary.org/obo/BFO_0000062>[?X0,?X2] :- <http://purl.obolibrary.org/obo/BFO_0000050>[?X0,?X1], <http://purl.obolibrary.org/obo/BFO_0000062>[?X1,?X2] .
+<http://purl.obolibrary.org/obo/RO_0002527>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002515>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002131>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002570>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002461>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002462>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0040036>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002552>[?X,?Y] .
+<http://purl.obolibrary.org/obo/BFO_0000040>[?X] :- <http://purl.obolibrary.org/obo/RO_0002007>[?X,?X1] .
+<http://purl.obolibrary.org/obo/RO_0002516>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002517>[?Y,?X] .
+<http://purl.obolibrary.org/obo/RO_0002517>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002516>[?Y,?X] .
+<http://purl.obolibrary.org/obo/RO_0009501>[?X0,?X2] :- <http://purl.obolibrary.org/obo/BFO_0000054>[?X0,?X1], <http://purl.obolibrary.org/obo/RO_0002404>[?X1,?X2] .
+<http://purl.obolibrary.org/obo/RO_0002105>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002109>[?Y,?X] .
+<http://purl.obolibrary.org/obo/RO_0002109>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002105>[?Y,?X] .
+<http://purl.obolibrary.org/obo/RO_0002130>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002113>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0011002>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002448>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002162>[?X0,?X2] :- <http://purl.obolibrary.org/obo/BFO_0000051>[?X0,?X1], <http://purl.obolibrary.org/obo/RO_0002162>[?X1,?X2] .
+<http://purl.obolibrary.org/obo/RO_0000057>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002234>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0000057>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0040036>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002526>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002524>[?X,?Y] .
+<http://purl.obolibrary.org/obo/BFO_0000141>[?X] :- <http://purl.obolibrary.org/obo/RO_0002572>[?X,?X1] .
+<http://purl.obolibrary.org/obo/RO_0002453>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002445>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002328>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002329>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002410>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0004028>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002497>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002492>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002180>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002018>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002216>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002326>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002522>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002524>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002328>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002332>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0003305>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0003307>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002510>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002511>[?Y,?X] .
+<http://purl.obolibrary.org/obo/RO_0002511>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002510>[?Y,?X] .
+<http://purl.obolibrary.org/obo/RO_0002450>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0003003>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002624>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002625>[?Y,?X] .
+<http://purl.obolibrary.org/obo/RO_0002625>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002624>[?Y,?X] .
+<http://purl.obolibrary.org/obo/OGMS_0000031>[?X] :- <http://purl.obolibrary.org/obo/RO_0002452>[?X,?X1] .
+<http://purl.obolibrary.org/obo/RO_0002619>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002625>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002295>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002343>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002013>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002014>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002295>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002349>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002512>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002513>[?Y,?X] .
+<http://purl.obolibrary.org/obo/RO_0002513>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002512>[?Y,?X] .
+<http://purl.obolibrary.org/obo/BFO_0000040>[?X] :- <http://purl.obolibrary.org/obo/RO_0002375>[?X,?X1] .
+<http://purl.obolibrary.org/obo/RO_0002297>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002354>[?Y,?X] .
+<http://purl.obolibrary.org/obo/RO_0002354>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002297>[?Y,?X] .
+<http://purl.obolibrary.org/obo/BFO_0000040>[?X1] :- <http://purl.obolibrary.org/obo/RO_0002507>[?X,?X1] .
+<http://purl.obolibrary.org/obo/RO_0002567>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002568>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002087>[?X0,?X2] :- <http://purl.obolibrary.org/obo/RO_0002224>[?X0,?X1], <http://purl.obolibrary.org/obo/RO_0002230>[?X1,?X2] .
+<http://purl.obolibrary.org/obo/RO_0002233>[?X,?X2] :- <http://purl.obolibrary.org/obo/RO_0002025>[?X,?X1], <http://purl.obolibrary.org/obo/RO_0002233>[?X1,?X2] .
+<http://purl.obolibrary.org/obo/BFO_0000040>[?X1] :- <http://purl.obolibrary.org/obo/RO_0002007>[?X,?X1] .
+<http://purl.obolibrary.org/obo/BFO_0000040>[?X1] :- <http://purl.obolibrary.org/obo/RO_0011003>[?X,?X1] .
+<http://purl.obolibrary.org/obo/RO_0002170>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002485>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002158>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_HOM0000001>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002626>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002627>[?Y,?X] .
+<http://purl.obolibrary.org/obo/RO_0002627>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002626>[?Y,?X] .
+<http://purl.obolibrary.org/obo/RO_0002331>[?X0,?X2] :- <http://purl.obolibrary.org/obo/RO_0002327>[?X0,?X1], <http://purl.obolibrary.org/obo/BFO_0000050>[?X1,?X2] .
+<http://purl.obolibrary.org/obo/GO_0005634>[?X] :- <http://purl.obolibrary.org/obo/RO_0002476>[?X,?X1] .
+<http://purl.obolibrary.org/obo/BFO_0000051>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002230>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002339>[?X0,?X2] :- <http://purl.obolibrary.org/obo/RO_0002339>[?X0,?X1], <http://purl.obolibrary.org/obo/BFO_0000050>[?X1,?X2] .
+<http://purl.obolibrary.org/obo/BFO_0000040>[?X] :- <http://purl.obolibrary.org/obo/RO_0001020>[?X,?X1] .
+<http://purl.obolibrary.org/obo/CARO_0001010>[?X1] :- <http://purl.obolibrary.org/obo/RO_0008506>[?X,?X1] .
+<http://purl.obolibrary.org/obo/RO_0004000>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0004006>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002410>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002244>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002252>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002253>[?Y,?X] .
+<http://purl.obolibrary.org/obo/RO_0002253>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002252>[?Y,?X] .
+<http://purl.obolibrary.org/obo/RO_0002436>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002447>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002472>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002558>[?Y,?X] .
+<http://purl.obolibrary.org/obo/RO_0002558>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002472>[?Y,?X] .
+<http://purl.obolibrary.org/obo/RO_0002202>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002225>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002615>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0003301>[?Y,?X] .
+<http://purl.obolibrary.org/obo/RO_0003301>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002615>[?Y,?X] .
+<http://purl.obolibrary.org/obo/RO_0002500>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002216>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002006>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002130>[?Y,?X] .
+<http://purl.obolibrary.org/obo/RO_0002130>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002006>[?Y,?X] .
+<http://purl.obolibrary.org/obo/RO_0002327>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002333>[?Y,?X] .
+<http://purl.obolibrary.org/obo/RO_0002333>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002327>[?Y,?X] .
+<http://purl.obolibrary.org/obo/RO_0002578>[?X1,?X2] :- <http://purl.obolibrary.org/obo/RO_0002578>[?X,?X2], <http://purl.obolibrary.org/obo/RO_0002025>[?X,?X1] .
+<http://purl.obolibrary.org/obo/BFO_0000040>[?X1] :- <http://purl.obolibrary.org/obo/RO_0011009>[?X,?X1] .
+<http://purl.obolibrary.org/obo/RO_0002353>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002354>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002407>[?X0,?X2] :- <http://purl.obolibrary.org/obo/RO_0002406>[?X0,?X1], <http://purl.obolibrary.org/obo/RO_0002407>[?X1,?X2] .
+<http://purl.obolibrary.org/obo/RO_0002412>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002578>[?X,?Y] .
+<http://purl.obolibrary.org/obo/BFO_0000040>[?X1] :- <http://purl.obolibrary.org/obo/RO_0002473>[?X,?X1] .
+<http://purl.obolibrary.org/obo/RO_0002619>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0008508>[?X,?Y] .
+<http://purl.obolibrary.org/obo/CL_0000540>[?X1] :- <http://purl.obolibrary.org/obo/RO_0000300>[?X,?X1] .
+<http://purl.obolibrary.org/obo/RO_0002500>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002608>[?Y,?X] .
+<http://purl.obolibrary.org/obo/RO_0002608>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002500>[?Y,?X] .
+<http://purl.obolibrary.org/obo/RO_0002005>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002134>[?Y,?X] .
+<http://purl.obolibrary.org/obo/RO_0002134>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002005>[?Y,?X] .
+<http://purl.obolibrary.org/obo/CARO_0000006>[?X1] :- <http://purl.obolibrary.org/obo/RO_0004025>[?X,?X1] .
+<http://purl.obolibrary.org/obo/RO_0002254>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002255>[?Y,?X] .
+<http://purl.obolibrary.org/obo/RO_0002255>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002254>[?Y,?X] .
+<http://purl.obolibrary.org/obo/CARO_0000003>[?X1] :- <http://purl.obolibrary.org/obo/RO_0002256>[?X,?X1] .
+<http://purl.obolibrary.org/obo/RO_0011021>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0011009>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002385>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002255>[?X,?Y] .
+<http://purl.obolibrary.org/obo/BFO_0000002>[?X] :- <http://purl.obolibrary.org/obo/RO_0002258>[?X,?X1] .
+<http://purl.obolibrary.org/obo/RO_0002286>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002257>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002375>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002376>[?X,?Y] .
+<http://purl.obolibrary.org/obo/BFO_0000015>[?X1] :- <http://purl.obolibrary.org/obo/RO_0002211>[?X,?X1] .
+<http://purl.obolibrary.org/obo/RO_0002407>[?X0,?X2] :- <http://purl.obolibrary.org/obo/RO_0002407>[?X0,?X1], <http://purl.obolibrary.org/obo/RO_0002406>[?X1,?X2] .
+<http://purl.obolibrary.org/obo/RO_0002222>[?X,?Y] :- <http://purl.obolibrary.org/obo/BFO_0000063>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002595>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002584>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002202>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002207>[?X,?Y] .
+<http://purl.obolibrary.org/obo/BFO_0000015>[?X] :- <http://purl.obolibrary.org/obo/RO_0002233>[?X,?X1] .
+<http://purl.obolibrary.org/obo/RO_0002497>[?X0,?X2] :- <http://purl.obolibrary.org/obo/RO_0002497>[?X0,?X1], <http://purl.obolibrary.org/obo/RO_0002082>[?X1,?X2] .
+<http://purl.obolibrary.org/obo/RO_0002442>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002455>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002418>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002012>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002023>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002630>[?Y,?X] .
+<http://purl.obolibrary.org/obo/RO_0002630>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002023>[?Y,?X] .
+<http://purl.obolibrary.org/obo/RO_0040036>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002585>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002120>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002105>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002411>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002211>[?X,?Y] .
+<http://purl.obolibrary.org/obo/CARO_0000003>[?X] :- <http://purl.obolibrary.org/obo/RO_0002005>[?X,?X1] .
+<http://purl.obolibrary.org/obo/RO_0002258>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002476>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002444>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002636>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002107>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002108>[?Y,?X] .
+<http://purl.obolibrary.org/obo/RO_0002108>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002107>[?Y,?X] .
+<http://purl.obolibrary.org/obo/BFO_0000040>[?X1] :- <http://purl.obolibrary.org/obo/RO_0001022>[?X,?X1] .
+<http://purl.obolibrary.org/obo/RO_0002203>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002210>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002120>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002114>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0040035>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0004026>[?X,?Y] .
+<http://purl.obolibrary.org/obo/BFO_0000040>[?X1] :- <http://purl.obolibrary.org/obo/RO_0002437>[?X,?X1] .
+<http://purl.obolibrary.org/obo/BFO_0000015>[?X1] :- <http://purl.obolibrary.org/obo/RO_0002018>[?X,?X1] .
+<http://purl.obolibrary.org/obo/BFO_0000040>[?X1] :- <http://purl.obolibrary.org/obo/RO_0009002>[?X,?X1] .
+<http://purl.obolibrary.org/obo/RO_0002445>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0008504>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002496>[?X0,?X2] :- <http://purl.obolibrary.org/obo/RO_0002496>[?X0,?X1], <http://purl.obolibrary.org/obo/BFO_0000062>[?X1,?X2] .
+<http://purl.obolibrary.org/obo/RO_0002518>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002519>[?Y,?X] .
+<http://purl.obolibrary.org/obo/RO_0002519>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002518>[?Y,?X] .
+<http://purl.obolibrary.org/obo/BFO_0000015>[?X] :- <http://purl.obolibrary.org/obo/RO_0002414>[?X,?X1] .
+<http://purl.obolibrary.org/obo/RO_0002578>[?X2,?X] :- <http://purl.obolibrary.org/obo/RO_0002352>[?X3,?X1], <http://purl.obolibrary.org/obo/RO_0002333>[?X2,?X3], <http://purl.obolibrary.org/obo/RO_0002013>[?X,?X1] .
+<http://purl.obolibrary.org/obo/RO_0002018>[?X1,?X] :- <http://purl.obolibrary.org/obo/RO_0002180>[?X1,?X], <http://purl.obolibrary.org/obo/BFO_0000015>[?X1], <http://purl.obolibrary.org/obo/BFO_0000015>[?X] .
+<http://purl.obolibrary.org/obo/RO_0002216>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002215>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002410>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0003310>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002445>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002635>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002216>[?X0,?X2] :- <http://purl.obolibrary.org/obo/RO_0002215>[?X0,?X1], <http://purl.obolibrary.org/obo/BFO_0000050>[?X1,?X2] .
+<http://purl.obolibrary.org/obo/CARO_0000003>[?X] :- <http://purl.obolibrary.org/obo/RO_0002373>[?X,?X1] .
+<http://purl.obolibrary.org/obo/RO_0002258>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002285>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002584>[?X0,?X2] :- <http://purl.obolibrary.org/obo/BFO_0000051>[?X0,?X1], <http://purl.obolibrary.org/obo/RO_0002215>[?X1,?X2] .
+<http://purl.obolibrary.org/obo/BFO_0000002>[?X1] :- <http://purl.obolibrary.org/obo/RO_0002204>[?X,?X1] .
+<http://purl.obolibrary.org/obo/BFO_0000040>[?X1] :- <http://purl.obolibrary.org/obo/RO_0011008>[?X,?X1] .
+<http://purl.obolibrary.org/obo/RO_0002131>[?X0,?X2] :- <http://purl.obolibrary.org/obo/BFO_0000051>[?X0,?X1], <http://purl.obolibrary.org/obo/RO_0002131>[?X1,?X2] .
+<http://purl.obolibrary.org/obo/RO_0002233>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002591>[?X,?Y] .
+<http://www.w3.org/2002/07/owl#Nothing>[?X] :- <http://purl.obolibrary.org/obo/RO_0002411>[?X,?X1], <http://purl.obolibrary.org/obo/RO_0002131>[?X,?X1] .
+<http://www.w3.org/2002/07/owl#Nothing>[?X1] :- <http://purl.obolibrary.org/obo/RO_0002411>[?X,?X1], <http://purl.obolibrary.org/obo/RO_0002131>[?X,?X1] .
+<http://purl.obolibrary.org/obo/RO_0002479>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002021>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002566>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002508>[?X,?Y] .
+<http://purl.obolibrary.org/obo/BFO_0000040>[?X1] :- <http://purl.obolibrary.org/obo/RO_0011002>[?X,?X1] .
+<http://purl.obolibrary.org/obo/RO_0002468>[?X,?X] :- <http://purl.obolibrary.org/obo/GO_0072519>[?X] .
+<http://purl.obolibrary.org/obo/RO_0002509>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002507>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0003000>[?X0,?X2] :- <http://purl.obolibrary.org/obo/BFO_0000066>[?X1,?X0], <http://purl.obolibrary.org/obo/RO_0002234>[?X1,?X2] .
+<http://purl.obolibrary.org/obo/RO_0002434>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002437>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002618>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0008507>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002131>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002130>[?X,?Y] .
+<http://purl.obolibrary.org/obo/BFO_0000050>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002375>[?X,?Y] .
+<http://purl.obolibrary.org/obo/BFO_0000063>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002411>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002162>[?X0,?X2] :- <http://purl.obolibrary.org/obo/BFO_0000050>[?X0,?X1], <http://purl.obolibrary.org/obo/RO_0002162>[?X1,?X2] .
+<http://purl.obolibrary.org/obo/RO_0002287>[?X0,?X2] :- <http://purl.obolibrary.org/obo/BFO_0000050>[?X0,?X1], <http://purl.obolibrary.org/obo/RO_0002210>[?X1,?X2] .
+<http://purl.obolibrary.org/obo/RO_0002431>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002428>[?X,?Y] .
+<http://www.w3.org/2002/07/owl#Nothing>[<int$false>] :- <http://purl.obolibrary.org/obo/RO_0003301>[?X,?X] .
+<http://purl.obolibrary.org/obo/RO_0002162>[?X0,?X2] :- <http://purl.obolibrary.org/obo/RO_0002254>[?X0,?X1], <http://purl.obolibrary.org/obo/RO_0002162>[?X1,?X2] .
+<http://purl.obolibrary.org/obo/RO_0002131>[?X0,?X2] :- <http://purl.obolibrary.org/obo/BFO_0000050>[?X0,?X1], <http://purl.obolibrary.org/obo/BFO_0000050>[?X1,?X2] .
+<http://purl.obolibrary.org/obo/RO_0002017>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002013>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002248>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002249>[?Y,?X] .
+<http://purl.obolibrary.org/obo/RO_0002249>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002248>[?Y,?X] .
+<http://purl.obolibrary.org/obo/RO_0000300>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0000302>[?X,?Y] .
+<http://purl.obolibrary.org/obo/BFO_0000004>[?X] :- <http://purl.obolibrary.org/obo/RO_0002220>[?X,?X1] .
+<http://purl.obolibrary.org/obo/RO_0002443>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002445>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0000057>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002233>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002440>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002454>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002532>[?X] :- <http://purl.obolibrary.org/obo/RO_0002534>[?X] .
+<http://purl.obolibrary.org/obo/CARO_0000003>[?X1] :- <http://purl.obolibrary.org/obo/RO_0002177>[?X,?X1] .
+<http://purl.obolibrary.org/obo/OGMS_0000031>[?X] :- <http://purl.obolibrary.org/obo/RO_0004023>[?X,?X1] .
+<http://purl.obolibrary.org/obo/RO_0002488>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002489>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0004017>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0004018>[?Y,?X] .
+<http://purl.obolibrary.org/obo/RO_0004018>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0004017>[?Y,?X] .
+<http://purl.obolibrary.org/obo/OGMS_0000031>[?X] :- <http://purl.obolibrary.org/obo/RO_0004029>[?X,?X1] .
+<http://purl.obolibrary.org/obo/RO_0002454>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002444>[?X,?Y] .
+<http://purl.obolibrary.org/obo/CARO_0000006>[?X1] :- <http://purl.obolibrary.org/obo/RO_0004020>[?X,?X1] .
+<http://purl.obolibrary.org/obo/BFO_0000040>[?X1] :- <http://purl.obolibrary.org/obo/RO_0002450>[?X,?X1] .
+<http://purl.obolibrary.org/obo/RO_0002388>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002203>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0000302>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002120>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002563>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002465>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002162>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002160>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002131>[?X0,?X2] :- <http://purl.obolibrary.org/obo/BFO_0000051>[?X0,?X1], <http://purl.obolibrary.org/obo/BFO_0000050>[?X1,?X2] .
+<http://purl.obolibrary.org/obo/RO_0002387>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002203>[?X,?Y] .
+<http://purl.obolibrary.org/obo/BFO_0000040>[?X] :- <http://purl.obolibrary.org/obo/RO_0003002>[?X,?X1] .
+<http://purl.obolibrary.org/obo/RO_0002465>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002467>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002527>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002529>[?X,?Y] .
+<http://purl.obolibrary.org/obo/CARO_0000000>[?X] :- <http://purl.obolibrary.org/obo/RO_0002254>[?X,?X1] .
+<http://purl.obolibrary.org/obo/RO_0002567>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002372>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002024>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002629>[?Y,?X] .
+<http://purl.obolibrary.org/obo/RO_0002629>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002024>[?Y,?X] .
+<http://purl.obolibrary.org/obo/RO_0002595>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002500>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002454>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002556>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002411>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002304>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002574>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002619>[?X,?Y] .
+<http://purl.obolibrary.org/obo/BFO_0000040>[?X] :- <http://purl.obolibrary.org/obo/RO_0002577>[?X] .
+<http://purl.obolibrary.org/obo/RO_0002490>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002492>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002574>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002438>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002444>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0008503>[?X,?Y] .
+<http://purl.obolibrary.org/obo/BFO_0000040>[?X1] :- <http://purl.obolibrary.org/obo/RO_0002248>[?X,?X1] .
+<http://purl.obolibrary.org/obo/BFO_0000004>[?X] :- <http://purl.obolibrary.org/obo/RO_0002202>[?X,?X1] .
+<http://purl.obolibrary.org/obo/BFO_0000040>[?X] :- <http://purl.obolibrary.org/obo/RO_0002325>[?X,?X1] .
+<http://purl.obolibrary.org/obo/BFO_0000040>[?X] :- <http://purl.obolibrary.org/obo/RO_0001021>[?X,?X1] .
+<http://purl.obolibrary.org/obo/RO_0002295>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002297>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002488>[?X0,?X2] :- <http://purl.obolibrary.org/obo/RO_0002488>[?X0,?X1], <http://purl.obolibrary.org/obo/BFO_0000050>[?X1,?X2] .
+<http://purl.obolibrary.org/obo/RO_0040036>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002298>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002206>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002292>[?Y,?X] .
+<http://purl.obolibrary.org/obo/RO_0002292>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002206>[?Y,?X] .
+<http://purl.obolibrary.org/obo/BFO_0000004>[?X] :- <http://purl.obolibrary.org/obo/RO_0010002>[?X,?X1] .
+<http://purl.obolibrary.org/obo/RO_0002258>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002226>[?X,?Y] .
+<http://purl.obolibrary.org/obo/CARO_0000003>[?X] :- <http://purl.obolibrary.org/obo/RO_0002004>[?X,?X1] .
+<http://purl.obolibrary.org/obo/RO_0002635>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002641>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002212>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002630>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002320>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002157>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002324>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002295>[?X,?Y] .
+<http://purl.obolibrary.org/obo/BFO_0000040>[?X1] :- <http://purl.obolibrary.org/obo/RO_0002570>[?X,?X1] .
+<http://purl.obolibrary.org/obo/RO_0002410>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002595>[?X,?Y] .
+<http://xmlns.com/foaf/0.1/image>[?X] :- <http://purl.obolibrary.org/obo/RO_0002026>[?X,?X1] .
+<http://purl.obolibrary.org/obo/CL_0000540>[?X] :- <http://purl.obolibrary.org/obo/RO_0002102>[?X,?X1] .
+<http://purl.obolibrary.org/obo/RO_0002622>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002623>[?Y,?X] .
+<http://purl.obolibrary.org/obo/RO_0002623>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002622>[?Y,?X] .
+<http://purl.obolibrary.org/obo/RO_0003304>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0003306>[?X,?Y] .
+<http://purl.obolibrary.org/obo/BFO_0000040>[?X1] :- <http://purl.obolibrary.org/obo/RO_0009001>[?X,?X1] .
+<http://purl.obolibrary.org/obo/BFO_0000040>[?X] :- <http://purl.obolibrary.org/obo/RO_0001018>[?X,?X1] .
+<http://purl.obolibrary.org/obo/RO_0002103>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002115>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002596>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002598>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002634>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002638>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002418>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0004046>[?X,?Y] .
+<http://purl.obolibrary.org/obo/BFO_0000004>[?X] :- <http://purl.obolibrary.org/obo/RO_0002150>[?X,?X1] .
+<http://purl.obolibrary.org/obo/RO_0002610>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002607>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002226>[?X0,?X2] :- <http://purl.obolibrary.org/obo/RO_0002207>[?X0,?X1], <http://purl.obolibrary.org/obo/RO_0001025>[?X1,?X2] .
+<http://purl.obolibrary.org/obo/BFO_0000002>[?X1] :- <http://purl.obolibrary.org/obo/RO_0002008>[?X,?X1] .
+<http://purl.obolibrary.org/obo/RO_0002532>[?X] :- <http://purl.obolibrary.org/obo/RO_0002514>[?X,?X1] .
+<http://purl.obolibrary.org/obo/RO_0002330>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002512>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002304>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002213>[?X,?Y] .
+<http://purl.obolibrary.org/obo/CARO_0001010>[?X1] :- <http://purl.obolibrary.org/obo/RO_0008505>[?X,?X1] .
+<http://purl.obolibrary.org/obo/RO_0002337>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002313>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0004010>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0004015>[?X,?Y] .
+<http://purl.obolibrary.org/obo/BFO_0000017>[?X] :- <http://purl.obolibrary.org/obo/RO_0004028>[?X,?X1] .
+<http://purl.obolibrary.org/obo/RO_0002085>[?X,?Z] :- <http://purl.obolibrary.org/obo/RO_0002085>[?X,?Y], <http://purl.obolibrary.org/obo/RO_0002085>[?Y,?Z] .
+<http://purl.obolibrary.org/obo/RO_0002258>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002202>[?X,?Y] .
+<http://purl.obolibrary.org/obo/ENVO_01000254>[?X1] :- <http://purl.obolibrary.org/obo/RO_0002303>[?X,?X1] .
+<http://purl.obolibrary.org/obo/RO_0002437>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002446>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002121>[?X0,?X2] :- <http://purl.obolibrary.org/obo/RO_0002121>[?X0,?X1], <http://purl.obolibrary.org/obo/BFO_0000050>[?X1,?X2] .
+<http://purl.obolibrary.org/obo/BFO_0000040>[?X1] :- <http://purl.obolibrary.org/obo/RO_0002233>[?X,?X1] .
+<http://purl.obolibrary.org/obo/BFO_0000040>[?X] :- <http://purl.obolibrary.org/obo/RO_0011007>[?X,?X1] .
+<http://purl.obolibrary.org/obo/RO_0004000>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0004001>[?X,?Y] .
+<http://purl.obolibrary.org/obo/BFO_0000003>[?X] :- <http://purl.obolibrary.org/obo/RO_0002012>[?X,?X1] .
+<http://purl.obolibrary.org/obo/RO_0002428>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002429>[?X,?Y] .
+<http://purl.obolibrary.org/obo/BFO_0000002>[?X1] :- <http://purl.obolibrary.org/obo/RO_0002337>[?X,?X1] .
+<http://purl.obolibrary.org/obo/BFO_0000040>[?X1] :- <http://purl.obolibrary.org/obo/RO_0002111>[?X,?X1] .
+<http://purl.obolibrary.org/obo/RO_0002131>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002006>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002634>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002640>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002586>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002589>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0001021>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0001023>[?Y,?X] .
+<http://purl.obolibrary.org/obo/RO_0001023>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0001021>[?Y,?X] .
+<http://purl.obolibrary.org/obo/RO_0002507>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002508>[?Y,?X] .
+<http://purl.obolibrary.org/obo/RO_0002508>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002507>[?Y,?X] .
+<http://purl.obolibrary.org/obo/RO_0002264>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0004032>[?X,?Y] .
+<http://purl.obolibrary.org/obo/BFO_0000050>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002012>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002449>[?X0,?X3] :- <http://purl.obolibrary.org/obo/RO_0002327>[?X0,?X1], <http://purl.obolibrary.org/obo/RO_0002630>[?X1,?X2], <http://purl.obolibrary.org/obo/RO_0002333>[?X2,?X3] .
+<http://purl.obolibrary.org/obo/BFO_0000015>[?X] :- <http://purl.obolibrary.org/obo/RO_0002232>[?X,?X1] .
+<http://purl.obolibrary.org/obo/RO_0004035>[?X0,?X2] :- <http://purl.obolibrary.org/obo/RO_0002327>[?X0,?X1], <http://purl.obolibrary.org/obo/RO_0002305>[?X1,?X2] .
+<http://purl.obolibrary.org/obo/RO_0002254>[?X0,?X2] :- <http://purl.obolibrary.org/obo/BFO_0000051>[?X0,?X1], <http://purl.obolibrary.org/obo/RO_0002202>[?X1,?X2] .
+<http://purl.obolibrary.org/obo/RO_0002464>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002563>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0011023>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0011007>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002286>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002255>[?X,?Y] .
+<http://purl.obolibrary.org/obo/BFO_0000004>[?X] :- <http://purl.obolibrary.org/obo/RO_0002215>[?X,?X1] .
+<http://purl.obolibrary.org/obo/GO_0005634>[?X1] :- <http://purl.obolibrary.org/obo/RO_0002476>[?X,?X1] .
+<http://purl.obolibrary.org/obo/CARO_0001001>[?X1] :- <http://purl.obolibrary.org/obo/RO_0002005>[?X,?X1] .
+<http://purl.obolibrary.org/obo/RO_0011021>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0011010>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002497>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002593>[?X,?Y] .
+<http://purl.obolibrary.org/obo/BFO_0000040>[?X1] :- <http://purl.obolibrary.org/obo/RO_0003003>[?X,?X1] .
+<http://purl.obolibrary.org/obo/CL_0000000>[?X1] :- <http://purl.obolibrary.org/obo/RO_0002349>[?X,?X1] .
+<http://purl.obolibrary.org/obo/RO_0002295>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002296>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002418>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0004047>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002440>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0008502>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0004000>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0004002>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002376>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002383>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002321>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002451>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0040036>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002313>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002409>[?X0,?X2] :- <http://purl.obolibrary.org/obo/RO_0002408>[?X0,?X1], <http://purl.obolibrary.org/obo/RO_0002409>[?X1,?X2] .
+<http://purl.obolibrary.org/obo/RO_0004010>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0004016>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0004023>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0004024>[?X,?Y] .
+<http://purl.obolibrary.org/obo/CARO_0000003>[?X] :- <http://purl.obolibrary.org/obo/RO_0002256>[?X,?X1] .
+<http://purl.obolibrary.org/obo/RO_0002295>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002315>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002330>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002511>[?X,?Y] .
+<http://purl.obolibrary.org/obo/BFO_0000004>[?X1] :- <http://purl.obolibrary.org/obo/RO_0002150>[?X,?X1] .
+<http://purl.obolibrary.org/obo/RO_0002596>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002597>[?X,?Y] .
+<http://www.w3.org/2002/07/owl#Nothing>[?X] :- <http://purl.obolibrary.org/obo/RO_0002404>[?X,?X1], <http://purl.obolibrary.org/obo/RO_0002131>[?X,?X1] .
+<http://www.w3.org/2002/07/owl#Nothing>[?X1] :- <http://purl.obolibrary.org/obo/RO_0002404>[?X,?X1], <http://purl.obolibrary.org/obo/RO_0002131>[?X,?X1] .
+<http://purl.obolibrary.org/obo/RO_0002618>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002619>[?Y,?X] .
+<http://purl.obolibrary.org/obo/RO_0002619>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002618>[?Y,?X] .
+<http://purl.obolibrary.org/obo/RO_0002592>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002591>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002387>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002388>[?X,?Y] .
+<http://purl.obolibrary.org/obo/BFO_0000002>[?X] :- <http://purl.obolibrary.org/obo/RO_0002206>[?X,?X1] .
+<http://purl.obolibrary.org/obo/RO_0002629>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002406>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002409>[?X0,?X2] :- <http://purl.obolibrary.org/obo/RO_0002409>[?X0,?X1], <http://purl.obolibrary.org/obo/RO_0002408>[?X1,?X2] .
+<http://purl.obolibrary.org/obo/RO_0002610>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0003308>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002208>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002209>[?Y,?X] .
+<http://purl.obolibrary.org/obo/RO_0002209>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002208>[?Y,?X] .
+<http://purl.obolibrary.org/obo/RO_0002596>[?X0,?X2] :- <http://purl.obolibrary.org/obo/RO_0002215>[?X0,?X1], <http://purl.obolibrary.org/obo/RO_0002211>[?X1,?X2] .
+<http://purl.obolibrary.org/obo/BFO_0000015>[?X1] :- <http://purl.obolibrary.org/obo/RO_0004024>[?X,?X1] .
+<http://purl.obolibrary.org/obo/RO_0002234>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0004008>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002449>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0003002>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002427>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002404>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002324>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002258>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002305>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002212>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002444>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002634>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002434>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002436>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002437>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002574>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0001020>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0001022>[?Y,?X] .
+<http://purl.obolibrary.org/obo/RO_0001022>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0001020>[?Y,?X] .
+<http://purl.obolibrary.org/obo/RO_0002163>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002220>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002130>[?X0,?X2] :- <http://purl.obolibrary.org/obo/RO_0002130>[?X0,?X1], <http://purl.obolibrary.org/obo/BFO_0000050>[?X1,?X2] .
+<http://purl.obolibrary.org/obo/RO_0002440>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002440>[?Y,?X] .
+<http://purl.obolibrary.org/obo/CL_0000540>[?X] :- <http://purl.obolibrary.org/obo/RO_0000300>[?X,?X1] .
+<http://purl.obolibrary.org/obo/RO_0002592>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002588>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0004018>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0004010>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002411>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002414>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002297>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002588>[?X,?Y] .
+<http://purl.obolibrary.org/obo/BFO_0000040>[?X1] :- <http://purl.obolibrary.org/obo/RO_0002375>[?X,?X1] .
+<http://purl.obolibrary.org/obo/RO_0002578>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002630>[?X,?Y] .
+<http://purl.obolibrary.org/obo/CARO_0001010>[?X1] :- <http://purl.obolibrary.org/obo/RO_0009004>[?X,?X1] .
+<http://purl.obolibrary.org/obo/RO_0002577>[?X] :- <http://purl.obolibrary.org/obo/RO_0002507>[?X,?X1] .
+<http://purl.obolibrary.org/obo/RO_0002444>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002228>[?X,?Y] .
+<http://purl.obolibrary.org/obo/BFO_0000002>[?X1] :- <http://purl.obolibrary.org/obo/RO_0002258>[?X,?X1] .
+<http://www.w3.org/2002/07/owl#Nothing>[<int$false>] :- <http://purl.obolibrary.org/obo/RO_0009001>[?X,?X] .
+<http://purl.obolibrary.org/obo/RO_0002410>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0004023>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002379>[?X0,?X2] :- <http://purl.obolibrary.org/obo/RO_0001025>[?X0,?X1], <http://purl.obolibrary.org/obo/RO_0001025>[?X2,?X1] .
+<http://purl.obolibrary.org/obo/RO_0002207>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002210>[?Y,?X] .
+<http://purl.obolibrary.org/obo/RO_0002210>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002207>[?Y,?X] .
+<http://purl.obolibrary.org/obo/RO_0002411>[?X,?Z] :- <http://purl.obolibrary.org/obo/RO_0002411>[?X,?Y], <http://purl.obolibrary.org/obo/RO_0002411>[?Y,?Z] .
+<http://purl.obolibrary.org/obo/RO_0002321>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0008506>[?X,?Y] .
+<http://purl.obolibrary.org/obo/BFO_0000003>[?X] :- <http://purl.obolibrary.org/obo/RO_0002479>[?X,?X1] .
+<http://purl.obolibrary.org/obo/RO_0040036>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002355>[?X,?Y] .
+<http://purl.obolibrary.org/obo/BFO_0000017>[?X] :- <http://purl.obolibrary.org/obo/RO_0009501>[?X,?X1] .
+<http://purl.obolibrary.org/obo/RO_0002232>[?X0,?X2] :- <http://purl.obolibrary.org/obo/RO_0002230>[?X0,?X1], <http://purl.obolibrary.org/obo/BFO_0000066>[?X1,?X2] .
+<http://www.w3.org/2002/07/owl#Nothing>[<int$false>] :- <http://purl.obolibrary.org/obo/RO_0009002>[?X,?X] .
+<http://purl.obolibrary.org/obo/RO_0003302>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0001021>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002444>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002237>[?X,?Y] .
+<http://purl.obolibrary.org/obo/BFO_0000040>[?X] :- <http://purl.obolibrary.org/obo/RO_0011003>[?X,?X1] .
+<http://purl.obolibrary.org/obo/RO_0002295>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002357>[?X,?Y] .
+<http://purl.obolibrary.org/obo/CARO_0001001>[?X1] :- <http://purl.obolibrary.org/obo/RO_0002101>[?X,?X1] .
+<http://purl.obolibrary.org/obo/BFO_0000040>[?X] :- <http://purl.obolibrary.org/obo/RO_0011009>[?X,?X1] .
+<http://www.w3.org/2002/07/owl#Nothing>[<int$false>] :- <http://purl.obolibrary.org/obo/RO_0009003>[?X,?X] .
+<http://purl.obolibrary.org/obo/BFO_0000040>[?X] :- <http://purl.obolibrary.org/obo/RO_0002449>[?X,?X1] .
+<http://purl.obolibrary.org/obo/RO_0011003>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0011021>[?X,?Y] .
+<http://www.w3.org/2002/07/owl#Nothing>[<int$false>] :- <http://purl.obolibrary.org/obo/RO_0009005>[?X,?X] .
+<http://purl.obolibrary.org/obo/OGMS_0000031>[?X] :- <http://purl.obolibrary.org/obo/RO_0004024>[?X,?X1] .
+<http://purl.obolibrary.org/obo/RO_0002200>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0004022>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002618>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002624>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002220>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002219>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002574>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002627>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002233>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002019>[?X,?Y] .
+<http://purl.obolibrary.org/obo/BFO_0000050>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002249>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002384>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002286>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002320>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002156>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002574>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002440>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002295>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002348>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002492>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002491>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002428>[?X0,?X2] :- <http://purl.obolibrary.org/obo/RO_0002327>[?X0,?X1], <http://purl.obolibrary.org/obo/RO_0002211>[?X1,?X2] .
+<http://purl.obolibrary.org/obo/BFO_0000040>[?X] :- <http://purl.obolibrary.org/obo/RO_0002434>[?X,?X1] .
+<http://purl.obolibrary.org/obo/RO_0002479>[?X0,?X2] :- <http://purl.obolibrary.org/obo/BFO_0000051>[?X0,?X1], <http://purl.obolibrary.org/obo/BFO_0000066>[?X1,?X2] .
+<http://purl.obolibrary.org/obo/BFO_0000040>[?X1] :- <http://purl.obolibrary.org/obo/RO_0004028>[?X,?X1] .
+<http://purl.obolibrary.org/obo/BFO_0000003>[?X] :- <http://purl.obolibrary.org/obo/RO_0002501>[?X,?X1] .
+<http://purl.obolibrary.org/obo/RO_0002418>[?X,?Z] :- <http://purl.obolibrary.org/obo/RO_0002418>[?X,?Y], <http://purl.obolibrary.org/obo/RO_0002418>[?Y,?Z] .
+<http://purl.obolibrary.org/obo/RO_0002496>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002488>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002156>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002374>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002438>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002469>[?X,?Y] .
+<http://purl.obolibrary.org/obo/BFO_0000050>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002571>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002321>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002322>[?X,?Y] .
+<http://purl.obolibrary.org/obo/BFO_0000015>[?X] :- <http://purl.obolibrary.org/obo/RO_0002334>[?X,?X1] .
+<http://purl.obolibrary.org/obo/RO_0002323>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002150>[?X,?Y] .
+<http://purl.obolibrary.org/obo/CARO_0000003>[?X] :- <http://purl.obolibrary.org/obo/RO_0002551>[?X,?X1] .
+<http://purl.obolibrary.org/obo/RO_0002020>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002340>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002490>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002488>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0000056>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002353>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002334>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002336>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002113>[?X0,?X2] :- <http://purl.obolibrary.org/obo/RO_0002113>[?X0,?X1], <http://purl.obolibrary.org/obo/BFO_0000050>[?X1,?X2] .
+<http://purl.obolibrary.org/obo/RO_0002500>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002431>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0010001>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0010002>[?Y,?X] .
+<http://purl.obolibrary.org/obo/RO_0010002>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0010001>[?Y,?X] .
+<http://purl.obolibrary.org/obo/RO_0002506>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002566>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002414>[?X,?Z] :- <http://purl.obolibrary.org/obo/RO_0002414>[?X,?Y], <http://purl.obolibrary.org/obo/RO_0002414>[?Y,?Z] .
+<http://purl.obolibrary.org/obo/RO_0002574>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002618>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002338>[?X0,?X2] :- <http://purl.obolibrary.org/obo/RO_0002338>[?X0,?X1], <http://purl.obolibrary.org/obo/BFO_0000050>[?X1,?X2] .
+<http://purl.obolibrary.org/obo/BFO_0000063>[?X0,?X2] :- <http://purl.obolibrary.org/obo/BFO_0000050>[?X0,?X1], <http://purl.obolibrary.org/obo/BFO_0000063>[?X1,?X2] .
+<http://purl.obolibrary.org/obo/RO_0004000>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0004010>[?Y,?X] .
+<http://purl.obolibrary.org/obo/RO_0004010>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0004000>[?Y,?X] .
+<http://purl.obolibrary.org/obo/RO_0002500>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002264>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0000056>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002352>[?X,?Y] .
+<http://purl.obolibrary.org/obo/CL_0000540>[?X] :- <http://purl.obolibrary.org/obo/RO_0002100>[?X,?X1] .
+<http://purl.obolibrary.org/obo/RO_0002225>[?X0,?X2] :- <http://purl.obolibrary.org/obo/RO_0002207>[?X0,?X1], <http://purl.obolibrary.org/obo/BFO_0000050>[?X1,?X2] .
+<http://purl.obolibrary.org/obo/RO_0002337>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002344>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002445>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002209>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002410>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002501>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0003304>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0003305>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002323>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002002>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0004001>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0004011>[?Y,?X] .
+<http://purl.obolibrary.org/obo/RO_0004011>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0004001>[?Y,?X] .
+<http://purl.obolibrary.org/obo/RO_0002330>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002206>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002295>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002356>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002440>[?X0,?X3] :- <http://purl.obolibrary.org/obo/RO_0002461>[?X0,?X1], <http://purl.obolibrary.org/obo/RO_0002465>[?X1,?X2], <http://purl.obolibrary.org/obo/RO_0002461>[?X3,?X2] .
+<http://purl.obolibrary.org/obo/RO_0002286>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002287>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002447>[?X1,?X3] :- <http://purl.obolibrary.org/obo/RO_0002578>[?X,?X2], <http://purl.obolibrary.org/obo/RO_0002333>[?X2,?X3], <http://purl.obolibrary.org/obo/RO_0002333>[?X,?X1], <http://purl.obolibrary.org/obo/GO_0016301>[?X] .
+<http://purl.obolibrary.org/obo/RO_0002450>[?X0,?X3] :- <http://purl.obolibrary.org/obo/RO_0002327>[?X0,?X1], <http://purl.obolibrary.org/obo/RO_0002629>[?X1,?X2], <http://purl.obolibrary.org/obo/RO_0002333>[?X2,?X3] .
+<http://purl.obolibrary.org/obo/RO_0004025>[?X0,?X2] :- <http://purl.obolibrary.org/obo/RO_0004025>[?X0,?X1], <http://purl.obolibrary.org/obo/BFO_0000050>[?X1,?X2] .
+<http://purl.obolibrary.org/obo/RO_0002438>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002471>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002616>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002614>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002444>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002227>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002264>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002431>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002436>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002480>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002131>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002360>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002200>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002201>[?Y,?X] .
+<http://purl.obolibrary.org/obo/RO_0002201>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002200>[?Y,?X] .
+<http://purl.obolibrary.org/obo/RO_0002336>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002016>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002323>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002008>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002321>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0008505>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002574>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002626>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002314>[?X0,?X2] :- <http://purl.obolibrary.org/obo/RO_0000052>[?X0,?X1], <http://purl.obolibrary.org/obo/BFO_0000050>[?X1,?X2] .
+<http://purl.obolibrary.org/obo/RO_0002597>[?X0,?X2] :- <http://purl.obolibrary.org/obo/RO_0002215>[?X0,?X1], <http://purl.obolibrary.org/obo/RO_0002212>[?X1,?X2] .
+<http://purl.obolibrary.org/obo/CARO_0000003>[?X] :- <http://purl.obolibrary.org/obo/RO_0002177>[?X,?X1] .
+<http://purl.obolibrary.org/obo/BFO_0000040>[?X] :- <http://purl.obolibrary.org/obo/RO_0011002>[?X,?X1] .
+<http://purl.obolibrary.org/obo/RO_0040036>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002299>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002496>[?X0,?X2] :- <http://purl.obolibrary.org/obo/RO_0002496>[?X0,?X1], <http://purl.obolibrary.org/obo/RO_0002082>[?X1,?X2] .
+<http://purl.obolibrary.org/obo/BFO_0000040>[?X] :- <http://purl.obolibrary.org/obo/RO_0011008>[?X,?X1] .
+<http://purl.obolibrary.org/obo/RO_0002403>[?X0,?X2] :- <http://purl.obolibrary.org/obo/RO_0002411>[?X0,?X1], <http://purl.obolibrary.org/obo/RO_0002402>[?X1,?X2] .
+<http://purl.obolibrary.org/obo/RO_0002435>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002435>[?Y,?X] .
+<http://purl.obolibrary.org/obo/RO_0002263>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002428>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002434>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002434>[?Y,?X] .
+<http://purl.obolibrary.org/obo/RO_0002501>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002427>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002102>[?X0,?X2] :- <http://purl.obolibrary.org/obo/RO_0002102>[?X0,?X1], <http://purl.obolibrary.org/obo/BFO_0000050>[?X1,?X2] .
+<http://purl.obolibrary.org/obo/CARO_0001010>[?X] :- <http://purl.obolibrary.org/obo/RO_0002303>[?X,?X1] .
+<http://purl.obolibrary.org/obo/RO_0002211>[?X0,?X2] :- <http://purl.obolibrary.org/obo/RO_0002230>[?X0,?X1], <http://purl.obolibrary.org/obo/RO_0002211>[?X1,?X2] .
+<http://purl.obolibrary.org/obo/BFO_0000015>[?X1] :- <http://purl.obolibrary.org/obo/RO_0002595>[?X,?X1] .
+<http://purl.obolibrary.org/obo/RO_0002407>[?X0,?X2] :- <http://purl.obolibrary.org/obo/RO_0002406>[?X0,?X1], <http://purl.obolibrary.org/obo/RO_0002406>[?X1,?X2] .
+<http://purl.obolibrary.org/obo/RO_0002482>[?X,?X] :- <http://purl.obolibrary.org/obo/GO_0004842>[?X] .
+<http://purl.obolibrary.org/obo/CARO_0000003>[?X1] :- <http://purl.obolibrary.org/obo/RO_0002567>[?X,?X1] .
+<http://purl.obolibrary.org/obo/RO_0002110>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002121>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002410>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002302>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002264>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0004033>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002334>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002335>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002453>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002554>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002567>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002177>[?X,?Y] .
+<http://purl.obolibrary.org/obo/CARO_0000003>[?X1] :- <http://purl.obolibrary.org/obo/RO_0002576>[?X,?X1] .
+<http://purl.obolibrary.org/obo/RO_0002437>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002437>[?Y,?X] .
+<http://purl.obolibrary.org/obo/RO_0002020>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002345>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0009001>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0009005>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002436>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002436>[?Y,?X] .
+<http://purl.obolibrary.org/obo/CARO_0001001>[?X] :- <http://purl.obolibrary.org/obo/RO_0002132>[?X,?X1] .
+<http://purl.obolibrary.org/obo/RO_0002404>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002405>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0004010>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0004011>[?X,?Y] .
+<http://www.w3.org/2002/07/owl#topObjectProperty>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002111>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002320>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002312>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002206>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002246>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0004023>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0004025>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002428>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002430>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002330>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002510>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002457>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002469>[?Y,?X] .
+<http://purl.obolibrary.org/obo/RO_0002469>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002457>[?Y,?X] .
+<http://purl.obolibrary.org/obo/CARO_0000006>[?X1] :- <http://purl.obolibrary.org/obo/RO_0002104>[?X,?X1] .
+<http://purl.obolibrary.org/obo/RO_0002430>[?X0,?X2] :- <http://purl.obolibrary.org/obo/RO_0002331>[?X0,?X1], <http://purl.obolibrary.org/obo/RO_0002212>[?X1,?X2] .
+<http://purl.obolibrary.org/obo/RO_0002323>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002131>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0004034>[?X0,?X2] :- <http://purl.obolibrary.org/obo/RO_0002327>[?X0,?X1], <http://purl.obolibrary.org/obo/RO_0002304>[?X1,?X2] .
+<http://purl.obolibrary.org/obo/RO_0002501>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002418>[?X,?Y] .
+<http://purl.obolibrary.org/obo/BFO_0000002>[?X] :- <http://purl.obolibrary.org/obo/RO_0002330>[?X,?X1] .
+<http://purl.obolibrary.org/obo/RO_0011024>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0011008>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002334>[?X,?Z] :- <http://purl.obolibrary.org/obo/RO_0002334>[?X,?Y], <http://purl.obolibrary.org/obo/RO_0002334>[?Y,?Z] .
+<http://purl.obolibrary.org/obo/RO_0002375>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002253>[?X,?Y] .
+<http://purl.obolibrary.org/obo/BFO_0000015>[?X] :- <http://purl.obolibrary.org/obo/RO_0002010>[?X,?X1] .
+<http://purl.obolibrary.org/obo/BFO_0000031>[?X1] :- <http://purl.obolibrary.org/obo/RO_0010002>[?X,?X1] .
+<http://purl.obolibrary.org/obo/RO_0002085>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002092>[?Y,?X] .
+<http://purl.obolibrary.org/obo/RO_0002092>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002085>[?Y,?X] .
+<http://purl.obolibrary.org/obo/BFO_0000004>[?X1] :- <http://purl.obolibrary.org/obo/RO_0002220>[?X,?X1] .
+<http://purl.obolibrary.org/obo/RO_0002440>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002453>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002443>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002444>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002509>[?X0,?X2] :- <http://purl.obolibrary.org/obo/RO_0002507>[?X0,?X1], <http://purl.obolibrary.org/obo/BFO_0000050>[?X1,?X2] .
+<http://purl.obolibrary.org/obo/RO_0002532>[?X] :- <http://purl.obolibrary.org/obo/RO_0002533>[?X] .
+<http://purl.obolibrary.org/obo/RO_0004007>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0004008>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002407>[?X0,?X2] :- <http://purl.obolibrary.org/obo/RO_0002409>[?X0,?X1], <http://purl.obolibrary.org/obo/RO_0002409>[?X1,?X2] .
+<http://purl.obolibrary.org/obo/RO_0002211>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002213>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002131>[?X,?Y] :- <http://purl.obolibrary.org/obo/BFO_0000050>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002204>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002205>[?Y,?X] .
+<http://purl.obolibrary.org/obo/RO_0002205>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002204>[?Y,?X] .
+<http://purl.obolibrary.org/obo/RO_0002212>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002409>[?X,?Y] .
+<http://purl.obolibrary.org/obo/BFO_0000017>[?X1] :- <http://purl.obolibrary.org/obo/RO_0004010>[?X,?X1] .
+<http://purl.obolibrary.org/obo/ENVO_01000254>[?X1] :- <http://purl.obolibrary.org/obo/RO_0002322>[?X,?X1] .
+<http://purl.obolibrary.org/obo/RO_0002376>[?Y,?X] :- <http://purl.obolibrary.org/obo/RO_0002378>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002564>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002482>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002445>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002625>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0010002>[?X0,?X2] :- <http://purl.obolibrary.org/obo/RO_0000059>[?X0,?X1], <http://purl.obolibrary.org/obo/RO_0000053>[?X1,?X2] .
+<http://purl.obolibrary.org/obo/RO_0002497>[?X0,?X2] :- <http://purl.obolibrary.org/obo/RO_0002497>[?X0,?X1], <http://purl.obolibrary.org/obo/BFO_0000063>[?X1,?X2] .
+<http://purl.obolibrary.org/obo/RO_0004005>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0004015>[?Y,?X] .
+<http://purl.obolibrary.org/obo/RO_0004015>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0004005>[?Y,?X] .
+<http://purl.obolibrary.org/obo/RO_0002488>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002491>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002465>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002466>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002310>[?X] :- <http://purl.obolibrary.org/obo/RO_0002244>[?X,?X1] .
+<http://purl.obolibrary.org/obo/BFO_0000040>[?X] :- <http://purl.obolibrary.org/obo/RO_0003001>[?X,?X1] .
+<http://purl.obolibrary.org/obo/RO_0002231>[?X0,?X2] :- <http://purl.obolibrary.org/obo/RO_0002224>[?X0,?X1], <http://purl.obolibrary.org/obo/BFO_0000066>[?X1,?X2] .
+<http://purl.obolibrary.org/obo/RO_0004006>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0004016>[?Y,?X] .
+<http://purl.obolibrary.org/obo/RO_0004016>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0004006>[?Y,?X] .
+<http://purl.obolibrary.org/obo/BFO_0000031>[?X] :- <http://purl.obolibrary.org/obo/RO_0010001>[?X,?X1] .
+<http://purl.obolibrary.org/obo/RO_0002528>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002531>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002329>[?X0,?X2] :- <http://purl.obolibrary.org/obo/BFO_0000050>[?X0,?X1], <http://purl.obolibrary.org/obo/RO_0002215>[?X1,?X2] .
+<http://purl.obolibrary.org/obo/RO_0002418>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002010>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002410>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0004000>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002328>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002216>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002514>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002523>[?X,?Y] .
+<http://purl.obolibrary.org/obo/CARO_0001010>[?X] :- <http://purl.obolibrary.org/obo/RO_0008505>[?X,?X1] .
+<http://purl.obolibrary.org/obo/RO_0002444>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002236>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0011002>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0011004>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002409>[?X,?Z] :- <http://purl.obolibrary.org/obo/RO_0002409>[?X,?Y], <http://purl.obolibrary.org/obo/RO_0002409>[?Y,?Z] .
+<http://purl.obolibrary.org/obo/RO_0004004>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0004014>[?Y,?X] .
+<http://purl.obolibrary.org/obo/RO_0004014>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0004004>[?Y,?X] .
+<http://purl.obolibrary.org/obo/RO_0002202>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002203>[?Y,?X] .
+<http://purl.obolibrary.org/obo/RO_0002203>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002202>[?Y,?X] .
+<http://purl.obolibrary.org/obo/BFO_0000040>[?X1] :- <http://purl.obolibrary.org/obo/RO_0002325>[?X,?X1] .
+<http://purl.obolibrary.org/obo/RO_0002244>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002243>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002323>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002026>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0003302>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0001022>[?X,?Y] .
+<http://purl.obolibrary.org/obo/BFO_0000004>[?X1] :- <http://purl.obolibrary.org/obo/RO_0004026>[?X,?X1] .
+<http://purl.obolibrary.org/obo/RO_0002527>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002528>[?X,?Y] .
+<http://purl.obolibrary.org/obo/BFO_0000003>[?X1] :- <http://purl.obolibrary.org/obo/RO_0002012>[?X,?X1] .
+<http://purl.obolibrary.org/obo/OGMS_0000031>[?X] :- <http://purl.obolibrary.org/obo/RO_0004025>[?X,?X1] .
+<http://purl.obolibrary.org/obo/GO_0004872>[?X] :- <http://purl.obolibrary.org/obo/RO_0002019>[?X,?X1] .
+<http://purl.obolibrary.org/obo/RO_0002487>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002497>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002410>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0009501>[?X,?Y] .
+<http://purl.obolibrary.org/obo/BFO_0000040>[?X1] :- <http://purl.obolibrary.org/obo/RO_0011004>[?X,?X1] .
+<http://purl.obolibrary.org/obo/BFO_0000040>[?X] :- <http://purl.obolibrary.org/obo/RO_0009004>[?X,?X1] .
+<http://purl.obolibrary.org/obo/BFO_0000040>[?X1] :- <http://purl.obolibrary.org/obo/RO_0011013>[?X,?X1] .
+<http://purl.obolibrary.org/obo/RO_0002429>[?X0,?X2] :- <http://purl.obolibrary.org/obo/RO_0002331>[?X0,?X1], <http://purl.obolibrary.org/obo/RO_0002213>[?X1,?X2] .
+<http://purl.obolibrary.org/obo/RO_0002407>[?X,?Z] :- <http://purl.obolibrary.org/obo/RO_0002407>[?X,?Y], <http://purl.obolibrary.org/obo/RO_0002407>[?Y,?Z] .
+<http://purl.obolibrary.org/obo/RO_0002206>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002291>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002532>[?X1] :- <http://purl.obolibrary.org/obo/RO_0002514>[?X,?X1] .
+<http://purl.obolibrary.org/obo/RO_0002619>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002623>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0004002>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0004012>[?Y,?X] .
+<http://purl.obolibrary.org/obo/RO_0004012>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0004002>[?Y,?X] .
+<http://purl.obolibrary.org/obo/CARO_0000003>[?X] :- <http://purl.obolibrary.org/obo/RO_0002111>[?X,?X1] .
+<http://purl.obolibrary.org/obo/RO_0002427>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002334>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002131>[?X0,?X2] :- <http://purl.obolibrary.org/obo/RO_0002131>[?X0,?X1], <http://purl.obolibrary.org/obo/BFO_0000050>[?X1,?X2] .
+<http://purl.obolibrary.org/obo/BFO_0000004>[?X1] :- <http://purl.obolibrary.org/obo/RO_0002202>[?X,?X1] .
+<http://purl.obolibrary.org/obo/CARO_0000006>[?X1] :- <http://purl.obolibrary.org/obo/RO_0002206>[?X,?X1] .
+<http://purl.obolibrary.org/obo/RO_0004003>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0004013>[?Y,?X] .
+<http://purl.obolibrary.org/obo/RO_0004013>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0004003>[?Y,?X] .
+<http://purl.obolibrary.org/obo/RO_0002525>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002519>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0011004>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0011013>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002496>[?X0,?X2] :- <http://purl.obolibrary.org/obo/RO_0002258>[?X0,?X1], <http://purl.obolibrary.org/obo/RO_0002496>[?X1,?X2] .
+<http://purl.obolibrary.org/obo/RO_0002170>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002179>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002220>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002221>[?X,?Y] .
+<http://purl.obolibrary.org/obo/GO_0003674>[?X] :- <http://purl.obolibrary.org/obo/GO_0003824>[?X] .
+<http://purl.obolibrary.org/obo/GO_0003824>[?X] :- <http://purl.obolibrary.org/obo/GO_0016874>[?X] .
+<http://purl.obolibrary.org/obo/GO_0003824>[?X] :- <http://purl.obolibrary.org/obo/GO_0016740>[?X] .
+<http://purl.obolibrary.org/obo/GO_0016881>[?X] :- <http://purl.obolibrary.org/obo/GO_0019787>[?X] .
+<http://purl.obolibrary.org/obo/GO_0019787>[?X] :- <http://purl.obolibrary.org/obo/GO_0004842>[?X] .
+<http://purl.obolibrary.org/obo/GO_0016772>[?X] :- <http://purl.obolibrary.org/obo/GO_0016301>[?X] .
+<http://purl.obolibrary.org/obo/GO_0016874>[?X] :- <http://purl.obolibrary.org/obo/GO_0016879>[?X] .
+<http://purl.obolibrary.org/obo/GO_0016740>[?X] :- <http://purl.obolibrary.org/obo/GO_0016772>[?X] .
+<http://purl.obolibrary.org/obo/GO_0016879>[?X] :- <http://purl.obolibrary.org/obo/GO_0016881>[?X] .
+<http://purl.obolibrary.org/obo/RO_HOM0000053>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_HOM0000053>[?Y,?X] .
+<http://purl.obolibrary.org/obo/RO_HOM0000022>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_HOM0000073>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_HOM0000002>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_HOM0000004>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_HOM0000046>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_HOM0000046>[?Y,?X] .
+<http://purl.obolibrary.org/obo/RO_HOM0000034>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_HOM0000026>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_HOM0000060>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_HOM0000060>[?Y,?X] .
+<http://purl.obolibrary.org/obo/RO_HOM0000001>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_HOM0000007>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_HOM0000011>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_HOM0000024>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_HOM0000007>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_HOM0000018>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_HOM0000007>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_HOM0000047>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_HOM0000052>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_HOM0000052>[?Y,?X] .
+<http://purl.obolibrary.org/obo/RO_HOM0000018>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_HOM0000061>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_HOM0000066>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_HOM0000074>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_HOM0000004>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_HOM0000033>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_HOM0000051>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_HOM0000051>[?Y,?X] .
+<http://www.w3.org/2002/07/owl#Nothing>[<int$false>] :- <http://purl.obolibrary.org/obo/RO_HOM0000029>[?X,?Y], <http://purl.obolibrary.org/obo/RO_HOM0000030>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_HOM0000045>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_HOM0000045>[?Y,?X] .
+<http://purl.obolibrary.org/obo/RO_HOM0000037>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_HOM0000037>[?Y,?X] .
+<http://purl.obolibrary.org/obo/RO_HOM0000028>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_HOM0000029>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_HOM0000058>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_HOM0000057>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_HOM0000044>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_HOM0000044>[?Y,?X] .
+<http://purl.obolibrary.org/obo/RO_HOM0000036>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_HOM0000036>[?Y,?X] .
+<http://purl.obolibrary.org/obo/RO_HOM0000003>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_HOM0000074>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_HOM0000050>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_HOM0000050>[?Y,?X] .
+<http://purl.obolibrary.org/obo/RO_HOM0000043>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_HOM0000043>[?Y,?X] .
+<http://purl.obolibrary.org/obo/RO_HOM0000042>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_HOM0000042>[?Y,?X] .
+<http://purl.obolibrary.org/obo/RO_HOM0000029>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_HOM0000029>[?Y,?X] .
+<http://purl.obolibrary.org/obo/RO_HOM0000047>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_HOM0000046>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_HOM0000007>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_HOM0000036>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_HOM0000028>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_HOM0000028>[?Y,?X] .
+<http://purl.obolibrary.org/obo/RO_HOM0000027>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_HOM0000027>[?Y,?X] .
+<http://purl.obolibrary.org/obo/RO_HOM0000007>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_HOM0000062>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_HOM0000010>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_HOM0000013>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_HOM0000029>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_HOM0000032>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_HOM0000034>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_HOM0000034>[?Y,?X] .
+<http://purl.obolibrary.org/obo/RO_HOM0000073>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_HOM0000073>[?Y,?X] .
+<http://www.w3.org/2002/07/owl#Nothing>[<int$false>] :- <http://purl.obolibrary.org/obo/RO_HOM0000023>[?X,?Y], <http://purl.obolibrary.org/obo/RO_HOM0000024>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_HOM0000066>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_HOM0000027>[?X,?Y] .
+<http://www.w3.org/2002/07/owl#Nothing>[<int$false>] :- <http://purl.obolibrary.org/obo/RO_HOM0000071>[?X,?Y], <http://purl.obolibrary.org/obo/RO_HOM0000072>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_HOM0000066>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_HOM0000066>[?Y,?X] .
+<http://purl.obolibrary.org/obo/RO_HOM0000010>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_HOM0000012>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_HOM0000065>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_HOM0000062>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_HOM0000029>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_HOM0000031>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_HOM0000003>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_HOM0000044>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_HOM0000058>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_HOM0000058>[?Y,?X] .
+<http://purl.obolibrary.org/obo/RO_HOM0000072>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_HOM0000072>[?Y,?X] .
+<http://purl.obolibrary.org/obo/RO_HOM0000030>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_HOM0000052>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_HOM0000065>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_HOM0000065>[?Y,?X] .
+<http://purl.obolibrary.org/obo/RO_HOM0000057>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_HOM0000057>[?Y,?X] .
+<http://purl.obolibrary.org/obo/RO_HOM0000071>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_HOM0000071>[?Y,?X] .
+<http://purl.obolibrary.org/obo/RO_HOM0000037>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_HOM0000034>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_HOM0000063>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_HOM0000063>[?Y,?X] .
+<http://purl.obolibrary.org/obo/RO_HOM0000005>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_HOM0000044>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_HOM0000049>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_HOM0000049>[?Y,?X] .
+<http://purl.obolibrary.org/obo/RO_HOM0000017>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_HOM0000020>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_HOM0000062>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_HOM0000062>[?Y,?X] .
+<http://purl.obolibrary.org/obo/RO_HOM0000050>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_HOM0000060>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_HOM0000011>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_HOM0000012>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_HOM0000062>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_HOM0000054>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_HOM0000048>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_HOM0000048>[?Y,?X] .
+<http://purl.obolibrary.org/obo/RO_HOM0000000>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_HOM0000065>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_HOM0000011>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_HOM0000050>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_HOM0000055>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_HOM0000055>[?Y,?X] .
+<http://purl.obolibrary.org/obo/RO_HOM0000019>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_HOM0000020>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_HOM0000047>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_HOM0000047>[?Y,?X] .
+<http://purl.obolibrary.org/obo/RO_HOM0000061>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_HOM0000061>[?Y,?X] .
+<http://purl.obolibrary.org/obo/RO_HOM0000006>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_HOM0000015>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_HOM0000054>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_HOM0000054>[?Y,?X] .
+<http://purl.obolibrary.org/obo/RO_HOM0000000>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_HOM0000001>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_HOM0000007>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_HOM0000063>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_HOM0000017>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_HOM0000054>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_HOM0000006>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_HOM0000006>[?Y,?X] .
+<http://purl.obolibrary.org/obo/RO_HOM0000005>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_HOM0000005>[?Y,?X] .
+<http://www.w3.org/2002/07/owl#Nothing>[<int$false>] :- <http://purl.obolibrary.org/obo/RO_HOM0000011>[?X,?Y], <http://purl.obolibrary.org/obo/RO_HOM0000017>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_HOM0000012>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_HOM0000012>[?Y,?X] .
+<http://purl.obolibrary.org/obo/RO_HOM0000004>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_HOM0000004>[?Y,?X] .
+<http://purl.obolibrary.org/obo/RO_HOM0000008>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_HOM0000066>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_HOM0000011>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_HOM0000011>[?Y,?X] .
+<http://purl.obolibrary.org/obo/RO_HOM0000003>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_HOM0000003>[?Y,?X] .
+<http://purl.obolibrary.org/obo/RO_HOM0000007>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_HOM0000037>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_HOM0000011>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_HOM0000049>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_HOM0000010>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_HOM0000010>[?Y,?X] .
+<http://purl.obolibrary.org/obo/RO_HOM0000036>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_HOM0000048>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_HOM0000002>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_HOM0000002>[?Y,?X] .
+<http://purl.obolibrary.org/obo/RO_HOM0000007>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_HOM0000043>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_HOM0000011>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_HOM0000055>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_HOM0000001>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_HOM0000006>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_HOM0000007>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_HOM0000075>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_HOM0000017>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_HOM0000034>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_HOM0000011>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_HOM0000023>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_HOM0000007>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_HOM0000017>[?X,?Y] .
+<http://www.w3.org/2002/07/owl#Nothing>[<int$false>] :- <http://purl.obolibrary.org/obo/RO_HOM0000049>[?X,?Y], <http://purl.obolibrary.org/obo/RO_HOM0000050>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_HOM0000069>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_HOM0000069>[?Y,?X] .
+<http://purl.obolibrary.org/obo/RO_HOM0000000>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_HOM0000003>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_HOM0000006>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_HOM0000014>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_HOM0000007>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_HOM0000011>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_HOM0000003>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_HOM0000058>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_HOM0000075>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_HOM0000075>[?Y,?X] .
+<http://purl.obolibrary.org/obo/RO_HOM0000002>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_HOM0000009>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_HOM0000068>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_HOM0000068>[?Y,?X] .
+<http://purl.obolibrary.org/obo/RO_HOM0000001>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_HOM0000001>[?Y,?X] .
+<http://purl.obolibrary.org/obo/RO_HOM0000029>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_HOM0000051>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_HOM0000019>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_HOM0000060>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_HOM0000034>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_HOM0000025>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_HOM0000074>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_HOM0000074>[?Y,?X] .
+<http://purl.obolibrary.org/obo/RO_HOM0000008>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_HOM0000072>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_HOM0000000>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_HOM0000000>[?Y,?X] .
+<http://purl.obolibrary.org/obo/RO_HOM0000026>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_HOM0000026>[?Y,?X] .
+<http://purl.obolibrary.org/obo/RO_HOM0000000>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_HOM0000002>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_HOM0000006>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_HOM0000071>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_HOM0000006>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_HOM0000016>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_HOM0000033>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_HOM0000033>[?Y,?X] .
+<http://purl.obolibrary.org/obo/RO_HOM0000018>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_HOM0000053>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_HOM0000025>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_HOM0000025>[?Y,?X] .
+<http://purl.obolibrary.org/obo/RO_HOM0000006>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_HOM0000010>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_HOM0000019>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_HOM0000019>[?Y,?X] .
+<http://purl.obolibrary.org/obo/RO_HOM0000032>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_HOM0000032>[?Y,?X] .
+<http://purl.obolibrary.org/obo/RO_HOM0000031>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_HOM0000031>[?Y,?X] .
+<http://purl.obolibrary.org/obo/RO_HOM0000007>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_HOM0000019>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_HOM0000001>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_HOM0000008>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_HOM0000024>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_HOM0000024>[?Y,?X] .
+<http://purl.obolibrary.org/obo/RO_HOM0000018>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_HOM0000018>[?Y,?X] .
+<http://purl.obolibrary.org/obo/RO_HOM0000007>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_HOM0000042>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_HOM0000030>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_HOM0000030>[?Y,?X] .
+<http://purl.obolibrary.org/obo/RO_HOM0000011>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_HOM0000022>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_HOM0000017>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_HOM0000017>[?Y,?X] .
+<http://purl.obolibrary.org/obo/RO_HOM0000007>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_HOM0000045>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_HOM0000016>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_HOM0000016>[?Y,?X] .
+<http://www.w3.org/2002/07/owl#Nothing>[<int$false>] :- <http://purl.obolibrary.org/obo/RO_HOM0000016>[?X,?Y], <http://purl.obolibrary.org/obo/RO_HOM0000062>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_HOM0000009>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_HOM0000009>[?Y,?X] .
+<http://purl.obolibrary.org/obo/RO_HOM0000023>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_HOM0000023>[?Y,?X] .
+<http://www.w3.org/2002/07/owl#Nothing>[<int$false>] :- <http://purl.obolibrary.org/obo/RO_HOM0000001>[?X,?Y], <http://purl.obolibrary.org/obo/RO_HOM0000002>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_HOM0000015>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_HOM0000015>[?Y,?X] .
+<http://purl.obolibrary.org/obo/RO_HOM0000005>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_HOM0000057>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_HOM0000002>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_HOM0000005>[?X,?Y] .
+<http://www.w3.org/2002/07/owl#Nothing>[<int$false>] :- <http://purl.obolibrary.org/obo/RO_HOM0000042>[?X,?Y], <http://purl.obolibrary.org/obo/RO_HOM0000043>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_HOM0000022>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_HOM0000022>[?Y,?X] .
+<http://purl.obolibrary.org/obo/RO_HOM0000018>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_HOM0000068>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_HOM0000028>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_HOM0000030>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_HOM0000014>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_HOM0000014>[?Y,?X] .
+<http://purl.obolibrary.org/obo/RO_HOM0000008>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_HOM0000008>[?Y,?X] .
+<http://purl.obolibrary.org/obo/RO_HOM0000011>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_HOM0000069>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_HOM0000008>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_HOM0000028>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_HOM0000020>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_HOM0000020>[?Y,?X] .
+<http://purl.obolibrary.org/obo/RO_HOM0000013>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_HOM0000013>[?Y,?X] .
+<http://purl.obolibrary.org/obo/RO_HOM0000007>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_HOM0000007>[?Y,?X] .
+<http://purl.obolibrary.org/obo/RO_HOM0000017>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_HOM0000048>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_HOM0000053>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_HOM0000073>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002087>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002090>[?Y,?X] .
+<http://purl.obolibrary.org/obo/RO_0002090>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002087>[?Y,?X] .
+<http://purl.obolibrary.org/obo/RO_0002084>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002093>[?Y,?X] .
+<http://purl.obolibrary.org/obo/RO_0002093>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002084>[?Y,?X] .
+<http://purl.obolibrary.org/obo/BFO_0000062>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002087>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002222>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002084>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002222>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002081>[?X,?Y] .
+<http://purl.obolibrary.org/obo/BFO_0000062>[?X,?Z] :- <http://purl.obolibrary.org/obo/BFO_0000062>[?X,?Y], <http://purl.obolibrary.org/obo/BFO_0000062>[?Y,?Z] .
+<http://purl.obolibrary.org/obo/BFO_0000003>[?X1] :- <http://purl.obolibrary.org/obo/BFO_0000063>[?X,?X1] .
+<http://purl.obolibrary.org/obo/BFO_0000062>[?X,?Y] :- <http://purl.obolibrary.org/obo/BFO_0000063>[?Y,?X] .
+<http://purl.obolibrary.org/obo/BFO_0000063>[?X,?Y] :- <http://purl.obolibrary.org/obo/BFO_0000062>[?Y,?X] .
+<http://purl.obolibrary.org/obo/RO_0002229>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002230>[?Y,?X] .
+<http://purl.obolibrary.org/obo/RO_0002230>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002229>[?Y,?X] .
+<http://purl.obolibrary.org/obo/RO_0002222>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002230>[?X,?Y] .
+<http://purl.obolibrary.org/obo/BFO_0000062>[?X0,?X2] :- <http://purl.obolibrary.org/obo/RO_0002092>[?X0,?X1], <http://purl.obolibrary.org/obo/BFO_0000062>[?X1,?X2] .
+<http://purl.obolibrary.org/obo/BFO_0000003>[?X] :- <http://purl.obolibrary.org/obo/RO_0002091>[?X,?X1] .
+<http://purl.obolibrary.org/obo/RO_0002083>[?X,?Z] :- <http://purl.obolibrary.org/obo/RO_0002083>[?X,?Y], <http://purl.obolibrary.org/obo/RO_0002083>[?Y,?Z] .
+<http://purl.obolibrary.org/obo/RO_0002230>[?X,?Z] :- <http://purl.obolibrary.org/obo/RO_0002230>[?X,?Y], <http://purl.obolibrary.org/obo/RO_0002230>[?Y,?Z] .
+<http://purl.obolibrary.org/obo/BFO_0000062>[?X0,?X2] :- <http://purl.obolibrary.org/obo/RO_0002091>[?X0,?X1], <http://purl.obolibrary.org/obo/BFO_0000062>[?X1,?X2] .
+<http://purl.obolibrary.org/obo/RO_0002222>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002091>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002222>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002089>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002224>[?X,?Z] :- <http://purl.obolibrary.org/obo/RO_0002224>[?X,?Y], <http://purl.obolibrary.org/obo/RO_0002224>[?Y,?Z] .
+<http://purl.obolibrary.org/obo/RO_0002222>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002086>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002082>[?X,?Z] :- <http://purl.obolibrary.org/obo/RO_0002082>[?X,?Y], <http://purl.obolibrary.org/obo/RO_0002082>[?Y,?Z] .
+<http://purl.obolibrary.org/obo/BFO_0000003>[?X1] :- <http://purl.obolibrary.org/obo/RO_0002222>[?X,?X1] .
+<http://purl.obolibrary.org/obo/RO_0002093>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002092>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002089>[?X,?Z] :- <http://purl.obolibrary.org/obo/RO_0002089>[?X,?Y], <http://purl.obolibrary.org/obo/RO_0002089>[?Y,?Z] .
+<http://purl.obolibrary.org/obo/BFO_0000063>[?X,?Z] :- <http://purl.obolibrary.org/obo/BFO_0000063>[?X,?Y], <http://purl.obolibrary.org/obo/BFO_0000063>[?Y,?Z] .
+<http://purl.obolibrary.org/obo/BFO_0000003>[?X1] :- <http://purl.obolibrary.org/obo/BFO_0000062>[?X,?X1] .
+<http://purl.obolibrary.org/obo/RO_0002222>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002093>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002086>[?X0,?X2] :- <http://purl.obolibrary.org/obo/RO_0002093>[?X0,?X1], <http://purl.obolibrary.org/obo/BFO_0000062>[?X1,?X2] .
+<http://purl.obolibrary.org/obo/RO_0002222>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002224>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002222>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002088>[?X,?Y] .
+<http://purl.obolibrary.org/obo/BFO_0000063>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002090>[?X,?Y] .
+<http://purl.obolibrary.org/obo/BFO_0000003>[?X] :- <http://purl.obolibrary.org/obo/BFO_0000063>[?X,?X1] .
+<http://purl.obolibrary.org/obo/RO_0002086>[?X,?Y] :- <http://purl.obolibrary.org/obo/BFO_0000062>[?X,?Y] .
+<http://purl.obolibrary.org/obo/BFO_0000003>[?X1] :- <http://purl.obolibrary.org/obo/RO_0002091>[?X,?X1] .
+<http://purl.obolibrary.org/obo/RO_0002081>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002083>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002222>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002229>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002089>[?X0,?X2] :- <http://purl.obolibrary.org/obo/RO_0002091>[?X0,?X1], <http://purl.obolibrary.org/obo/BFO_0000060>[?X1,?X2] .
+<http://purl.obolibrary.org/obo/BFO_0000060>[?X,?Z] :- <http://purl.obolibrary.org/obo/BFO_0000060>[?X,?Y], <http://purl.obolibrary.org/obo/BFO_0000060>[?Y,?Z] .
+<http://purl.obolibrary.org/obo/RO_0002222>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002223>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0002223>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002224>[?Y,?X] .
+<http://purl.obolibrary.org/obo/RO_0002224>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002223>[?Y,?X] .
+<http://purl.obolibrary.org/obo/RO_0002081>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002082>[?X,?Y] .
+<http://purl.obolibrary.org/obo/BFO_0000003>[?X] :- <http://purl.obolibrary.org/obo/BFO_0000062>[?X,?X1] .
+<http://purl.obolibrary.org/obo/RO_0002092>[?X,?Z] :- <http://purl.obolibrary.org/obo/RO_0002092>[?X,?Y], <http://purl.obolibrary.org/obo/RO_0002092>[?Y,?Z] .
+<http://purl.obolibrary.org/obo/BFO_0000003>[?X] :- <http://purl.obolibrary.org/obo/RO_0002222>[?X,?X1] .
+<http://purl.obolibrary.org/obo/RO_0002088>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002091>[?Y,?X] .
+<http://purl.obolibrary.org/obo/RO_0002091>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002088>[?Y,?X] .
+<http://purl.obolibrary.org/obo/RO_0002086>[?X,?Z] :- <http://purl.obolibrary.org/obo/RO_0002086>[?X,?Y], <http://purl.obolibrary.org/obo/RO_0002086>[?Y,?Z] .
+<http://purl.obolibrary.org/obo/RO_0001025>[?X,?Z] :- <http://purl.obolibrary.org/obo/RO_0001025>[?X,?Y], <http://purl.obolibrary.org/obo/RO_0001025>[?Y,?Z] .
+<http://purl.obolibrary.org/obo/BFO_0000003>[?X] :- <http://purl.obolibrary.org/obo/RO_0000057>[?X,?X1] .
+<http://purl.obolibrary.org/obo/RO_0000053>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0000086>[?X,?Y] .
+<http://purl.obolibrary.org/obo/BFO_0000066>[?X,?Y] :- <http://purl.obolibrary.org/obo/BFO_0000067>[?Y,?X] .
+<http://purl.obolibrary.org/obo/BFO_0000067>[?X,?Y] :- <http://purl.obolibrary.org/obo/BFO_0000066>[?Y,?X] .
+<http://purl.obolibrary.org/obo/BFO_0000017>[?X1] :- <http://purl.obolibrary.org/obo/BFO_0000055>[?X,?X1] .
+<http://purl.obolibrary.org/obo/BFO_0000034>[?X] :- <http://purl.obolibrary.org/obo/RO_0000079>[?X,?X1] .
+<http://purl.obolibrary.org/obo/RO_0000052>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0000079>[?X,?Y] .
+<http://purl.obolibrary.org/obo/BFO_0000023>[?X1] :- <http://purl.obolibrary.org/obo/RO_0000087>[?X,?X1] .
+<http://purl.obolibrary.org/obo/RO_0000052>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0000080>[?X,?Y] .
+<http://purl.obolibrary.org/obo/BFO_0000050>[?X,?Z] :- <http://purl.obolibrary.org/obo/BFO_0000050>[?X,?Y], <http://purl.obolibrary.org/obo/BFO_0000050>[?Y,?Z] .
+<http://purl.obolibrary.org/obo/BFO_0000066>[?X0,?X2] :- <http://purl.obolibrary.org/obo/BFO_0000050>[?X0,?X1], <http://purl.obolibrary.org/obo/BFO_0000066>[?X1,?X2] .
+<http://purl.obolibrary.org/obo/BFO_0000004>[?X1] :- <http://purl.obolibrary.org/obo/RO_0001025>[?X,?X1] .
+<http://purl.obolibrary.org/obo/BFO_0000034>[?X1] :- <http://purl.obolibrary.org/obo/RO_0000085>[?X,?X1] .
+<http://www.w3.org/2002/07/owl#Nothing>[?X] :- <http://purl.obolibrary.org/obo/BFO_0000002>[?X], <http://purl.obolibrary.org/obo/BFO_0000050>[?X,?X1], <http://purl.obolibrary.org/obo/BFO_0000003>[?X1] .
+<http://www.w3.org/2002/07/owl#Nothing>[?X] :- <http://purl.obolibrary.org/obo/BFO_0000003>[?X], <http://purl.obolibrary.org/obo/BFO_0000050>[?X,?X1], <http://purl.obolibrary.org/obo/BFO_0000002>[?X1] .
+<http://purl.obolibrary.org/obo/BFO_0000054>[?X,?Y] :- <http://purl.obolibrary.org/obo/BFO_0000055>[?Y,?X] .
+<http://purl.obolibrary.org/obo/BFO_0000055>[?X,?Y] :- <http://purl.obolibrary.org/obo/BFO_0000054>[?Y,?X] .
+<http://purl.obolibrary.org/obo/BFO_0000002>[?X] :- <http://purl.obolibrary.org/obo/RO_0000056>[?X,?X1] .
+<http://purl.obolibrary.org/obo/BFO_0000003>[?X] :- <http://purl.obolibrary.org/obo/BFO_0000066>[?X,?X1] .
+<http://purl.obolibrary.org/obo/BFO_0000031>[?X] :- <http://purl.obolibrary.org/obo/RO_0000058>[?X,?X1] .
+<http://purl.obolibrary.org/obo/BFO_0000050>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002350>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0001015>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0001025>[?Y,?X] .
+<http://purl.obolibrary.org/obo/RO_0001025>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0001015>[?Y,?X] .
+<http://purl.obolibrary.org/obo/RO_0001015>[?X,?Z] :- <http://purl.obolibrary.org/obo/RO_0001015>[?X,?Y], <http://purl.obolibrary.org/obo/RO_0001015>[?Y,?Z] .
+<http://purl.obolibrary.org/obo/RO_0000080>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0000086>[?Y,?X] .
+<http://purl.obolibrary.org/obo/RO_0000086>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0000080>[?Y,?X] .
+<http://purl.obolibrary.org/obo/BFO_0000015>[?X1] :- <http://purl.obolibrary.org/obo/BFO_0000054>[?X,?X1] .
+<http://purl.obolibrary.org/obo/RO_0000052>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0000092>[?X,?Y] .
+<http://purl.obolibrary.org/obo/BFO_0000015>[?X] :- <http://purl.obolibrary.org/obo/BFO_0000055>[?X,?X1] .
+<http://purl.obolibrary.org/obo/BFO_0000003>[?X1] :- <http://purl.obolibrary.org/obo/RO_0000056>[?X,?X1] .
+<http://purl.obolibrary.org/obo/BFO_0000004>[?X1] :- <http://purl.obolibrary.org/obo/BFO_0000066>[?X,?X1] .
+<http://purl.obolibrary.org/obo/BFO_0000004>[?X] :- <http://purl.obolibrary.org/obo/RO_0001025>[?X,?X1] .
+<http://purl.obolibrary.org/obo/RO_0000056>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0000057>[?Y,?X] .
+<http://purl.obolibrary.org/obo/RO_0000057>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0000056>[?Y,?X] .
+<http://www.w3.org/2002/07/owl#Nothing>[<int$false>] :- <http://purl.obolibrary.org/obo/RO_0002351>[?X,?X] .
+<http://purl.obolibrary.org/obo/BFO_0000051>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002351>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0000081>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0000087>[?Y,?X] .
+<http://purl.obolibrary.org/obo/RO_0000087>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0000081>[?Y,?X] .
+<http://purl.obolibrary.org/obo/BFO_0000040>[?X] :- <http://purl.obolibrary.org/obo/RO_0002002>[?X,?X1] .
+<http://purl.obolibrary.org/obo/RO_0002000>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002002>[?Y,?X] .
+<http://purl.obolibrary.org/obo/RO_0002002>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002000>[?Y,?X] .
+<http://purl.obolibrary.org/obo/RO_0002350>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002351>[?Y,?X] .
+<http://purl.obolibrary.org/obo/RO_0002351>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002350>[?Y,?X] .
+<http://purl.obolibrary.org/obo/RO_0000053>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0000091>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0000052>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0000081>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0000053>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0000085>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0000091>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0000092>[?Y,?X] .
+<http://purl.obolibrary.org/obo/RO_0000092>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0000091>[?Y,?X] .
+<http://purl.obolibrary.org/obo/BFO_0000004>[?X] :- <http://purl.obolibrary.org/obo/RO_0000085>[?X,?X1] .
+<http://purl.obolibrary.org/obo/BFO_0000019>[?X1] :- <http://purl.obolibrary.org/obo/RO_0000086>[?X,?X1] .
+<http://purl.obolibrary.org/obo/BFO_0000004>[?X] :- <http://purl.obolibrary.org/obo/RO_0001025>[?X,?X1] .
+<http://www.w3.org/2002/07/owl#Nothing>[<int$false>] :- <http://purl.obolibrary.org/obo/BFO_0000006>[?X], <http://purl.obolibrary.org/obo/RO_0001025>[?X,?X1] .
+<http://purl.obolibrary.org/obo/BFO_0000020>[?X1] :- <http://purl.obolibrary.org/obo/RO_0000053>[?X,?X1] .
+<http://purl.obolibrary.org/obo/RO_0000079>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0000085>[?Y,?X] .
+<http://purl.obolibrary.org/obo/RO_0000085>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0000079>[?Y,?X] .
+<http://purl.obolibrary.org/obo/BFO_0000066>[?X0,?X2] :- <http://purl.obolibrary.org/obo/BFO_0000066>[?X0,?X1], <http://purl.obolibrary.org/obo/BFO_0000050>[?X1,?X2] .
+<http://purl.obolibrary.org/obo/RO_0000058>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0000059>[?Y,?X] .
+<http://purl.obolibrary.org/obo/RO_0000059>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0000058>[?Y,?X] .
+<http://purl.obolibrary.org/obo/BFO_0000004>[?X] :- <http://purl.obolibrary.org/obo/RO_0000087>[?X,?X1] .
+<http://purl.obolibrary.org/obo/BFO_0000141>[?X1] :- <http://purl.obolibrary.org/obo/RO_0002002>[?X,?X1] .
+<http://purl.obolibrary.org/obo/BFO_0000016>[?X1] :- <http://purl.obolibrary.org/obo/RO_0000091>[?X,?X1] .
+<http://purl.obolibrary.org/obo/BFO_0000050>[?X,?Y] :- <http://purl.obolibrary.org/obo/BFO_0000051>[?Y,?X] .
+<http://purl.obolibrary.org/obo/BFO_0000051>[?X,?Y] :- <http://purl.obolibrary.org/obo/BFO_0000050>[?Y,?X] .
+<http://purl.obolibrary.org/obo/BFO_0000051>[?X,?Z] :- <http://purl.obolibrary.org/obo/BFO_0000051>[?X,?Y], <http://purl.obolibrary.org/obo/BFO_0000051>[?Y,?Z] .
+<http://purl.obolibrary.org/obo/BFO_0000020>[?X] :- <http://purl.obolibrary.org/obo/RO_0000059>[?X,?X1] .
+<http://purl.obolibrary.org/obo/RO_0000052>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0000053>[?Y,?X] .
+<http://purl.obolibrary.org/obo/RO_0000053>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0000052>[?Y,?X] .
+<http://purl.obolibrary.org/obo/BFO_0000002>[?X1] :- <http://purl.obolibrary.org/obo/RO_0000057>[?X,?X1] .
+<http://purl.obolibrary.org/obo/BFO_0000020>[?X1] :- <http://purl.obolibrary.org/obo/RO_0000058>[?X,?X1] .
+<http://purl.obolibrary.org/obo/BFO_0000031>[?X1] :- <http://purl.obolibrary.org/obo/RO_0000059>[?X,?X1] .
+<http://purl.obolibrary.org/obo/RO_0001000>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0001001>[?Y,?X] .
+<http://purl.obolibrary.org/obo/RO_0001001>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0001000>[?Y,?X] .
+<http://purl.obolibrary.org/obo/BFO_0000017>[?X] :- <http://purl.obolibrary.org/obo/BFO_0000054>[?X,?X1] .
+<http://purl.obolibrary.org/obo/BFO_0000004>[?X1] :- <http://purl.obolibrary.org/obo/RO_0001025>[?X,?X1] .
+<http://www.w3.org/2002/07/owl#Nothing>[<int$false>] :- <http://purl.obolibrary.org/obo/BFO_0000006>[?X1], <http://purl.obolibrary.org/obo/RO_0001025>[?X,?X1] .
+<http://purl.obolibrary.org/obo/RO_0000053>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0000087>[?X,?Y] .
+<http://purl.obolibrary.org/obo/BFO_0000004>[?X] :- <http://purl.obolibrary.org/obo/RO_0000091>[?X,?X1] .
+<http://purl.obolibrary.org/obo/PATO_0000052>[?X] :- <http://purl.obolibrary.org/obo/PATO_0001199>[?X] .
+<http://purl.obolibrary.org/obo/PATO_0000051>[?X] :- <http://purl.obolibrary.org/obo/PATO_0000052>[?X] .
+<http://purl.obolibrary.org/obo/PATO_0001241>[?X] :- <http://purl.obolibrary.org/obo/PATO_0000051>[?X] .
+<http://purl.obolibrary.org/obo/PATO_0000141>[?X] :- <http://purl.obolibrary.org/obo/PATO_0002124>[?X] .
+<http://purl.obolibrary.org/obo/PATO_0000001>[?X] :- <http://purl.obolibrary.org/obo/PATO_0001241>[?X] .
+<http://purl.obolibrary.org/obo/PATO_0000051>[?X] :- <http://purl.obolibrary.org/obo/PATO_0000141>[?X] .
+<http://purl.obolibrary.org/obo/CARO_0000003>[?X] :- <http://purl.obolibrary.org/obo/GO_0016020>[?X] .
+<http://purl.obolibrary.org/obo/GO_0044456>[?X] :- <http://purl.obolibrary.org/obo/GO_0042734>[?X] .
+<http://purl.obolibrary.org/obo/GO_0044464>[?X] :- <http://purl.obolibrary.org/obo/GO_0005634>[?X] .
+<http://purl.obolibrary.org/obo/GO_0042995>[?X] :- <http://purl.obolibrary.org/obo/GO_0043005>[?X] .
+<http://purl.obolibrary.org/obo/GO_0044456>[?X] :- <http://purl.obolibrary.org/obo/GO_0045211>[?X] .
+<http://purl.obolibrary.org/obo/GO_0044464>[?X] :- <http://purl.obolibrary.org/obo/GO_0044456>[?X] .
+<http://purl.obolibrary.org/obo/CARO_0000003>[?X] :- <http://purl.obolibrary.org/obo/GO_0044464>[?X] .
+<http://purl.obolibrary.org/obo/GO_0044464>[?X] :- <http://purl.obolibrary.org/obo/GO_0042995>[?X] .
+<http://purl.obolibrary.org/obo/GO_0016020>[?X] :- <http://purl.obolibrary.org/obo/GO_0045211>[?X] .
+<http://purl.obolibrary.org/obo/GO_0043005>[?X] :- <http://purl.obolibrary.org/obo/GO_0030424>[?X] .
+<http://purl.obolibrary.org/obo/GO_0016020>[?X] :- <http://purl.obolibrary.org/obo/GO_0042734>[?X] .
+<http://purl.obolibrary.org/obo/BFO_0000015>[?X] :- <http://purl.obolibrary.org/obo/GO_0008150>[?X] .
+<http://purl.obolibrary.org/obo/GO_0043005>[?X] :- <http://purl.obolibrary.org/obo/GO_0030425>[?X] .
+<http://purl.obolibrary.org/obo/CARO_0000003>[?X] :- <http://purl.obolibrary.org/obo/GO_0045202>[?X] .
+<http://www.w3.org/2002/07/owl#Nothing>[?X] :- <http://purl.obolibrary.org/obo/BFO_0000040>[?X], <http://purl.obolibrary.org/obo/BFO_0000141>[?X] .
+<http://www.w3.org/2002/07/owl#Nothing>[?X] :- <http://purl.obolibrary.org/obo/BFO_0000017>[?X], <http://purl.obolibrary.org/obo/BFO_0000019>[?X] .
+<http://www.w3.org/2002/07/owl#Nothing>[?X] :- <http://purl.obolibrary.org/obo/BFO_0000002>[?X], <http://purl.obolibrary.org/obo/BFO_0000003>[?X] .
+<http://www.w3.org/2002/07/owl#Nothing>[?X] :- <http://purl.obolibrary.org/obo/BFO_0000016>[?X], <http://purl.obolibrary.org/obo/BFO_0000023>[?X] .
+<http://www.w3.org/2002/07/owl#Nothing>[?X] :- <http://purl.obolibrary.org/obo/BFO_0000004>[?X], <http://purl.obolibrary.org/obo/BFO_0000020>[?X] .
+<http://www.w3.org/2002/07/owl#Nothing>[?X] :- <http://purl.obolibrary.org/obo/BFO_0000004>[?X], <http://purl.obolibrary.org/obo/BFO_0000031>[?X] .
+<http://www.w3.org/2002/07/owl#Nothing>[?X] :- <http://purl.obolibrary.org/obo/BFO_0000020>[?X], <http://purl.obolibrary.org/obo/BFO_0000031>[?X] .
+<http://purl.obolibrary.org/obo/BFO_0000040>[?X] :- <http://purl.obolibrary.org/obo/CARO_0000006>[?X] .
+<http://purl.obolibrary.org/obo/CARO_0000003>[?X] :- <http://purl.obolibrary.org/obo/CL_0000000>[?X] .
+<http://purl.obolibrary.org/obo/BFO_0000004>[?X] :- <http://purl.obolibrary.org/obo/CARO_0030000>[?X] .
+<http://purl.obolibrary.org/obo/CARO_0030000>[?X] :- <http://purl.obolibrary.org/obo/CARO_0000000>[?X] .
+<http://purl.obolibrary.org/obo/CARO_0010000>[?X] :- <http://purl.obolibrary.org/obo/CARO_0000011>[?X] .
+<http://purl.obolibrary.org/obo/CARO_0000003>[?X] :- <http://purl.obolibrary.org/obo/CARO_0010000>[?X] .
+<http://purl.obolibrary.org/obo/CARO_0001000>[?X] :- <http://purl.obolibrary.org/obo/CARO_0001001>[?X] .
+<http://purl.obolibrary.org/obo/RO_0002577>[?X] :- <http://purl.obolibrary.org/obo/CARO_0000011>[?X] .
+<http://purl.obolibrary.org/obo/BFO_0000020>[?X] :- <http://purl.obolibrary.org/obo/PATO_0000001>[?X] .
+<http://purl.obolibrary.org/obo/CL_0000000>[?X] :- <http://purl.obolibrary.org/obo/CL_0000540>[?X] .
+<http://purl.obolibrary.org/obo/ENVO_01000254>[?X] :- <http://purl.obolibrary.org/obo/ENVO_00000428>[?X] .
+<http://purl.obolibrary.org/obo/PATO_0000052>[?X] :- <http://purl.obolibrary.org/obo/PATO_0002009>[?X] .
+<http://purl.obolibrary.org/obo/CL_0000000>[?X1] :- <http://purl.obolibrary.org/obo/RO_0002207>[?X,?X1], <http://purl.obolibrary.org/obo/CL_0000000>[?X] .
+<http://purl.obolibrary.org/obo/RO_0002577>[?X] :- <http://purl.obolibrary.org/obo/ENVO_01000254>[?X] .
+<http://purl.obolibrary.org/obo/CARO_0010000>[?X1] :- <http://purl.obolibrary.org/obo/RO_0002207>[?X,?X1], <http://purl.obolibrary.org/obo/CARO_0010000>[?X] .
+<http://purl.obolibrary.org/obo/BFO_0000016>[?X] :- <http://purl.obolibrary.org/obo/OGMS_0000031>[?X] .
+<http://purl.obolibrary.org/obo/PATO_0000001>[?X] :- <http://purl.obolibrary.org/obo/UPHENO_0001001>[?X] .
+<http://purl.obolibrary.org/obo/BFO_0000040>[?X] :- <http://purl.obolibrary.org/obo/CARO_0001010>[?X] .
+<http://purl.obolibrary.org/obo/CARO_0000003>[?X] :- <http://purl.obolibrary.org/obo/CARO_0001000>[?X] .
+<http://purl.obolibrary.org/obo/CARO_0000000>[?X] :- <http://purl.obolibrary.org/obo/CARO_0000006>[?X] .
+<http://purl.obolibrary.org/obo/BFO_0000141>[?X] :- <http://purl.obolibrary.org/obo/CARO_0000007>[?X] .
+<http://purl.obolibrary.org/obo/CARO_0000006>[?X] :- <http://purl.obolibrary.org/obo/CARO_0000003>[?X] .
+<http://purl.obolibrary.org/obo/PATO_0002009>[?X] :- <http://purl.obolibrary.org/obo/PATO_0000402>[?X] .
+<http://purl.obolibrary.org/obo/PATO_0000051>[?X] :- <http://purl.obolibrary.org/obo/PATO_0000052>[?X] .
+<http://purl.obolibrary.org/obo/BFO_0000019>[?X] :- <http://purl.obolibrary.org/obo/PATO_0000051>[?X] .
+<http://purl.obolibrary.org/obo/BFO_0000015>[?X] :- <http://purl.obolibrary.org/obo/GO_0003674>[?X] .
+<http://purl.obolibrary.org/obo/RO_0000087>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002262>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0000087>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002260>[?X,?Y] .
+<http://purl.obolibrary.org/obo/RO_0000087>[?X,?Y] :- <http://purl.obolibrary.org/obo/RO_0002261>[?X,?Y] .
+<http://purl.obolibrary.org/obo/BFO_0000020>[?X] :- <http://purl.obolibrary.org/obo/BFO_0000019>[?X] .
+<http://purl.obolibrary.org/obo/BFO_0000017>[?X] :- <http://purl.obolibrary.org/obo/BFO_0000016>[?X] .
+<http://purl.obolibrary.org/obo/BFO_0000002>[?X] :- <http://purl.obolibrary.org/obo/BFO_0000031>[?X] .
+<http://purl.obolibrary.org/obo/BFO_0000003>[?X] :- <http://purl.obolibrary.org/obo/BFO_0000015>[?X] .
+<http://purl.obolibrary.org/obo/BFO_0000002>[?X] :- <http://purl.obolibrary.org/obo/BFO_0000020>[?X] .
+<http://purl.obolibrary.org/obo/BFO_0000002>[?X] :- <http://purl.obolibrary.org/obo/BFO_0000004>[?X] .
+<http://purl.obolibrary.org/obo/BFO_0000020>[?X] :- <http://purl.obolibrary.org/obo/BFO_0000017>[?X] .
+<http://purl.obolibrary.org/obo/BFO_0000004>[?X] :- <http://purl.obolibrary.org/obo/BFO_0000141>[?X] .
+<http://purl.obolibrary.org/obo/BFO_0000004>[?X] :- <http://purl.obolibrary.org/obo/BFO_0000040>[?X] .
+<http://www.geneontology.org/formats/oboInOwl#ObsoleteClass>[?X] :- <http://purl.obolibrary.org/obo/BFO_0000005>[?X] .
+<http://purl.obolibrary.org/obo/BFO_0000016>[?X] :- <http://purl.obolibrary.org/obo/BFO_0000034>[?X] .
+<http://purl.obolibrary.org/obo/BFO_0000141>[?X] :- <http://purl.obolibrary.org/obo/BFO_0000006>[?X] .
+<http://purl.obolibrary.org/obo/BFO_0000017>[?X] :- <http://purl.obolibrary.org/obo/BFO_0000023>[?X] .
+<http://purl.obolibrary.org/obo/GO_0044403>[?X] :- <http://purl.obolibrary.org/obo/GO_0085031>[?X] .
+<http://purl.obolibrary.org/obo/GO_0007610>[?X] :- <http://purl.obolibrary.org/obo/GO_0051705>[?X] .
+<http://purl.obolibrary.org/obo/GO_0008150>[?X] :- <http://purl.obolibrary.org/obo/GO_0051704>[?X] .
+<http://purl.obolibrary.org/obo/GO_0050896>[?X] :- <http://purl.obolibrary.org/obo/GO_0007610>[?X] .
+<http://purl.obolibrary.org/obo/GO_0007631>[?X] :- <http://purl.obolibrary.org/obo/GO_0051816>[?X] .
+<http://purl.obolibrary.org/obo/GO_0044419>[?X] :- <http://purl.obolibrary.org/obo/GO_0044403>[?X] .
+<http://purl.obolibrary.org/obo/GO_0051704>[?X] :- <http://purl.obolibrary.org/obo/GO_0044419>[?X] .
+<http://purl.obolibrary.org/obo/GO_0044403>[?X] :- <http://purl.obolibrary.org/obo/GO_0072519>[?X] .
+<http://purl.obolibrary.org/obo/GO_0007610>[?X] :- <http://purl.obolibrary.org/obo/GO_0007631>[?X] .
+<http://purl.obolibrary.org/obo/GO_0008150>[?X] :- <http://purl.obolibrary.org/obo/GO_0050896>[?X] .
+<http://purl.obolibrary.org/obo/GO_0044419>[?X] :- <http://purl.obolibrary.org/obo/GO_0051702>[?X] .
+<http://purl.obolibrary.org/obo/GO_0044403>[?X] :- <http://purl.obolibrary.org/obo/GO_0085030>[?X] .
+<http://purl.obolibrary.org/obo/GO_0051702>[?X] :- <http://purl.obolibrary.org/obo/GO_0051850>[?X] .
+<http://purl.obolibrary.org/obo/GO_0051704>[?X] :- <http://purl.obolibrary.org/obo/GO_0051705>[?X] .
+<http://purl.obolibrary.org/obo/GO_0051816>[?X] :- <http://purl.obolibrary.org/obo/GO_0051850>[?X] .
+<http://purl.obolibrary.org/obo/GO_0051705>[?X] :- <http://purl.obolibrary.org/obo/GO_0051850>[?X] .
+<http://purl.obolibrary.org/obo/BFO_0000020>[?X1] :- <http://purl.obolibrary.org/obo/BFO_0000050>[?X,?X1], <http://purl.obolibrary.org/obo/BFO_0000020>[?X] .
+<http://purl.obolibrary.org/obo/BFO_0000031>[?X1] :- <http://purl.obolibrary.org/obo/BFO_0000050>[?X,?X1], <http://purl.obolibrary.org/obo/BFO_0000031>[?X] .
+<http://purl.obolibrary.org/obo/BFO_0000002>[?X1] :- <http://purl.obolibrary.org/obo/RO_HOM0000000>[?X,?X1], <http://purl.obolibrary.org/obo/BFO_0000002>[?X] .
+<http://purl.obolibrary.org/obo/BFO_0000003>[?X1] :- <http://purl.obolibrary.org/obo/BFO_0000050>[?X,?X1], <http://purl.obolibrary.org/obo/BFO_0000003>[?X] .
+<http://purl.obolibrary.org/obo/BFO_0000002>[?X1] :- <http://purl.obolibrary.org/obo/BFO_0000050>[?X,?X1], <http://purl.obolibrary.org/obo/BFO_0000002>[?X] .
+<http://purl.obolibrary.org/obo/BFO_0000003>[?X1] :- <http://purl.obolibrary.org/obo/RO_HOM0000000>[?X,?X1], <http://purl.obolibrary.org/obo/BFO_0000003>[?X] .
+<http://purl.obolibrary.org/obo/BFO_0000004>[?X1] :- <http://purl.obolibrary.org/obo/BFO_0000050>[?X,?X1], <http://purl.obolibrary.org/obo/BFO_0000004>[?X] .
+<http://purl.obolibrary.org/obo/BFO_0000017>[?X1] :- <http://purl.obolibrary.org/obo/BFO_0000050>[?X,?X1], <http://purl.obolibrary.org/obo/BFO_0000017>[?X] .
+<http://purl.obolibrary.org/obo/BFO_0000019>[?X1] :- <http://purl.obolibrary.org/obo/BFO_0000050>[?X,?X1], <http://purl.obolibrary.org/obo/BFO_0000019>[?X] .
+<http://www.w3.org/2002/07/owl#Nothing>[?X] :- <http://purl.obolibrary.org/obo/BFO_0000141>[?X], <http://purl.obolibrary.org/obo/BFO_0000051>[?X,?X1], <http://purl.obolibrary.org/obo/BFO_0000040>[?X1] .
+<http://www.w3.org/2002/07/owl#Nothing>[?X] :- <http://purl.obolibrary.org/obo/BFO_0000040>[?X], <http://purl.obolibrary.org/obo/BFO_0000050>[?X,?X1], <http://purl.obolibrary.org/obo/BFO_0000141>[?X1] .
